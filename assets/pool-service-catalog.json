@@ -1,0 +1,191 @@
+[
+  {
+    "number": 1,
+    "slug": "weekly-service",
+    "name": "Weekly Pool Service",
+    "category": "Maintenance",
+    "description": "Routine cleaning, water testing, baskets, and equipment observations, with specialty tasks clearly scoped.",
+    "image": "/assets/pool-photos/pool-23.webp",
+    "alt": "Backyard swimming pool and patio"
+  },
+  {
+    "number": 2,
+    "slug": "acid-wash-service",
+    "name": "Pool Acid Washing",
+    "category": "Specialized",
+    "description": "Assess persistent surface staining, finish suitability, treatment options, and professionally planned water handling.",
+    "image": "/assets/pool-photos/pool-10.webp",
+    "alt": "Finished backyard pool and raised spa"
+  },
+  {
+    "number": 3,
+    "slug": "pool-tile-cleaning",
+    "name": "Pool Tile Calcium Removal",
+    "category": "Specialized",
+    "description": "Assess waterline deposits and choose an appropriate cleaning method for sound tile, grout, and nearby finishes.",
+    "image": "/assets/pool-photos/pool-16.webp",
+    "alt": "Pool waterline tile before and after cleaning"
+  },
+  {
+    "number": 4,
+    "slug": "pool-leak-detection-repair",
+    "name": "Pool Leak Detection & Repair",
+    "category": "Repairs",
+    "description": "Investigate changing water levels, wet areas, fittings, equipment, and suspected concealed plumbing leaks.",
+    "image": "/assets/pool-photos/pool-24.webp",
+    "alt": "Listening equipment used during a pool assessment"
+  },
+  {
+    "number": 5,
+    "slug": "pool-pump-repair",
+    "name": "Pool Pump Repair",
+    "category": "Repairs",
+    "description": "Diagnose leaks, unusual noise, starting problems, loss of prime, and weak circulation before choosing repair or replacement.",
+    "image": "/assets/pool-photos/pool-27.webp",
+    "alt": "Pool circulation pump and connected pipework"
+  },
+  {
+    "number": 6,
+    "slug": "pool-filter-repair",
+    "name": "Pool Filter Repair",
+    "category": "Repairs",
+    "description": "Assess leaking housings, damaged elements, valve faults, returning dirt, and unusual pressure trends.",
+    "image": "/assets/pool-photos/pool-21.webp",
+    "alt": "Pool filter vessels and connected circulation plumbing"
+  },
+  {
+    "number": 7,
+    "slug": "pool-heater-repair",
+    "name": "Pool Heater Repair",
+    "category": "Repairs",
+    "description": "Investigate no-heat symptoms, error codes, shutdowns, and problems affecting only pool or spa mode.",
+    "image": "/assets/pool-photos/pool-26.webp",
+    "alt": "Pool heater installed beside circulation pipework"
+  },
+  {
+    "number": 8,
+    "slug": "pool-automation",
+    "name": "Pool Automation & Smart Controls",
+    "category": "Upgrades",
+    "description": "Coordinate compatible pumps, heaters, lighting, valves, and schedules with clear programming and owner handoff.",
+    "image": "/assets/service-photos/automation.webp",
+    "alt": "Poolside user viewing a phone beside the water"
+  },
+  {
+    "number": 9,
+    "slug": "saltwater-pool-conversion",
+    "name": "Saltwater Pool Conversion",
+    "category": "Upgrades",
+    "description": "Plan chlorine-generator capacity, compatibility, installation, startup, and the care a salt system still needs.",
+    "image": "/assets/pool-photos/pool-06.webp",
+    "alt": "Salt chlorine generator component beside a pool"
+  },
+  {
+    "number": 10,
+    "slug": "pool-remodeling",
+    "name": "Pool Remodeling",
+    "category": "Remodeling",
+    "description": "Coordinate finish, tile, coping, equipment, and desired backyard changes around the pool’s actual condition.",
+    "image": "/assets/pool-photos/pool-00.webp",
+    "alt": "Backyard pool seen from above"
+  },
+  {
+    "number": 11,
+    "slug": "pool-pre-purchase-inspection",
+    "name": "Pool Pre-Purchase Inspection",
+    "category": "Specialized",
+    "description": "Review visible condition and agreed operating checks, with documented observations, limitations, and next steps.",
+    "image": "/assets/pool-photos/pool-24.webp",
+    "alt": "Pool inspection using listening equipment beside the water"
+  },
+  {
+    "number": 12,
+    "slug": "pool-repair",
+    "name": "Pool Equipment Repair",
+    "category": "Repairs",
+    "description": "Start with the symptom, then assess pumps, filters, controls, valves, and other installed equipment.",
+    "image": "/assets/pool-photos/pool-07.webp",
+    "alt": "Technician assessing pool equipment"
+  },
+  {
+    "number": 13,
+    "slug": "pool-heating-cooling",
+    "name": "Pool Heating & Cooling",
+    "category": "Upgrades",
+    "description": "Compare repair and comfort-system options around the pool, equipment, temperature goals, and installation.",
+    "image": "/assets/pool-photos/pool-26.webp",
+    "alt": "Pool heater at an outdoor equipment installation"
+  },
+  {
+    "number": 14,
+    "slug": "pool-deck-coping-joint-repair",
+    "name": "Pool Deck & Coping Joint Repair",
+    "category": "Remodeling",
+    "description": "Assess deteriorated mastic, gaps, separation, and adjacent surfaces before planning joint preparation and repair.",
+    "image": "/assets/service-photos/deck-joints.webp",
+    "alt": "Damaged pool edge and adjoining surface near the deck"
+  },
+  {
+    "number": 15,
+    "slug": "pool-equipment-warranty-service",
+    "name": "Pool Equipment Warranty Service",
+    "category": "Specialized",
+    "description": "Clarify records, eligibility, approval, and the required service process before arranging warranty work.",
+    "image": "/assets/pool-photos/pool-27.webp",
+    "alt": "Installed pool equipment with model labels for service review"
+  },
+  {
+    "number": 16,
+    "slug": "pool-plumbing-repair",
+    "name": "Pool Plumbing Repair",
+    "category": "Repairs",
+    "description": "Identify pipe leaks, damaged fittings, faulty valves, restricted flow, and access or restoration needs.",
+    "image": "/assets/service-photos/plumbing.webp",
+    "alt": "Pool plumbing connections and valves at an equipment pad"
+  },
+  {
+    "number": 17,
+    "slug": "pool-electrical-repair",
+    "name": "Pool Electrical Repair",
+    "category": "Repairs",
+    "description": "Arrange qualified assessment of tripping protection, failed lighting, equipment power, and control-wiring concerns.",
+    "image": "/assets/service-photos/electrical.webp",
+    "alt": "Pool equipment electrical controls at an outdoor installation"
+  },
+  {
+    "number": 18,
+    "slug": "pool-resurfacing",
+    "name": "Pool Resurfacing",
+    "category": "Remodeling",
+    "description": "Compare finish condition, preparation, materials, related repairs, water handling, and startup care.",
+    "image": "/assets/service-photos/resurfacing.webp",
+    "alt": "Finished pool and raised spa with surrounding deck"
+  },
+  {
+    "number": 19,
+    "slug": "pool-tile-replacement",
+    "name": "Pool Tile Replacement",
+    "category": "Remodeling",
+    "description": "Assess loose, missing, cracked, or outdated tile and plan appropriate materials, preparation, and related work.",
+    "image": "/assets/pool-photos/pool-10.webp",
+    "alt": "Finished pool and spa with waterline tile"
+  },
+  {
+    "number": 20,
+    "slug": "pool-chiller-cooling-systems",
+    "name": "Pool Chiller & Cooling Systems",
+    "category": "Upgrades",
+    "description": "Review cooling goals, equipment suitability, installation conditions, control integration, and performance concerns.",
+    "image": "/assets/service-photos/chiller.webp",
+    "alt": "Pool cooling equipment installed near a backyard pool"
+  },
+  {
+    "number": 21,
+    "slug": "pool-removal-backyard-restoration",
+    "name": "Pool Removal & Backyard Restoration",
+    "category": "Remodeling",
+    "description": "Plan removal methods, approvals, utilities, debris handling, fill, grading, and the finished yard scope.",
+    "image": "/assets/service-photos/removal.webp",
+    "alt": "Excavator working at a backyard pool demolition site"
+  }
+]

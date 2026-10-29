@@ -22,4 +22,10 @@ Photo screening and colour observations run on the visitor’s device. Accepted 
 
 The Frisco city guide links to `/frisco-neighborhoods/`, two guides for Frisco’s Collin and Denton County portions, and eight neighborhood guides. Local setting is grounded in linked community, developer, city, or visitor references; service priorities are planning guidance, not claims of neighborhood-wide defects or an HOA affiliation. Coverage is confirmed per address.
 
-Edit `assets/frisco-local-content.json` and run `python scripts/build_frisco_local.py` to rebuild the ten local pages and searchable directory. The citywide guide retains its separate content and city map. Shared navigation links to the directory. SEO generation includes all 39 pool routes.
+Edit `assets/frisco-local-content.json` and run `python scripts/build_frisco_local.py` to rebuild the ten local pages and searchable directory. The citywide guide retains its separate content and city map. Shared navigation links to the directory. SEO generation includes all 53 pool routes.
+
+## Full pool service catalogue
+
+`/services/` presents 21 primary services with search and category filters, plus five additional cleaning guides. Fourteen dedicated service pages extend the earlier service coverage. All calls and texts use 945-777-3345 and all content is branded Frisco Pool Services. Photos are local, with no prior-company logos or hotlinks.
+
+Edit `assets/pool-expanded-services.json` and run `python scripts/build_pool_service_catalog.py` to rebuild the expanded service pages and directory. `assets/pool-service-catalog.json` records the 21 entries and their correct local destinations. Warranty eligibility, authorized-service arrangements, and required qualifications are confirmed for the actual request; no unsupported authorization or certification is advertised.

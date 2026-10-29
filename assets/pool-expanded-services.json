@@ -1,0 +1,856 @@
+[
+  {
+    "slug": "pool-pump-repair",
+    "name": "Pool Pump Repair",
+    "category": "Repairs",
+    "image": "/assets/pool-photos/pool-27.webp",
+    "alt": "Pool circulation pump and connected pipework",
+    "description": "Pool pump repair in Frisco for leaks, noise, loss of prime, starting problems, and weak circulation. Compare diagnosis, repair, and replacement options.",
+    "lead": "A humming motor, a wet equipment pad, and weak pool returns can look like one pump problem while needing different work. Frisco pool pump repair starts with the operating pattern, equipment model, and the rest of the circulation system. Describe when the fault appears, rather than ordering a motor or pump from a symptom alone.",
+    "scope": [
+      [
+        "Starting and operation",
+        "Review startup behavior, alerts, loss of prime, and the circumstances in which operation changes."
+      ],
+      [
+        "Leaks and mechanical symptoms",
+        "Locate visible leakage and assess seals, fittings, housing condition, or unusual mechanical noise."
+      ],
+      [
+        "Repair or replacement",
+        "Compare the confirmed fault, compatible options, installation requirements, and checks after the work."
+      ]
+    ],
+    "questions": [
+      [
+        "Why is my pool pump humming?",
+        "A hum without normal operation can have several causes. Record whether the pump starts, stops, trips protection, or shows a fault code, and whether this happens only at startup. Avoid repeated restart attempts. Electrical and mechanical diagnosis should establish the cause before a replacement motor or other part is selected."
+      ],
+      [
+        "Why does the pump lose prime?",
+        "Note the water level, when the loss occurs, and whether it follows a cleaner or valve-mode change. A suction-side problem, restriction, or equipment fault can produce overlapping symptoms. If the pump runs dry, turn it off and request service. Do not keep running it in the hope that normal flow returns."
+      ],
+      [
+        "Does a leaking pump need replacement?",
+        "A visible puddle does not establish whether a fitting, seal, housing, or another nearby component is responsible. Photograph where the water first appears and whether it changes during operation. Ask for the source to be identified and for repair suitability to be explained before comparing complete replacement options."
+      ],
+      [
+        "Why are the returns suddenly weak?",
+        "The pump is one part of a loop that includes collection points, valves, filters, and return plumbing. Describe pressure and flow changes under comparable operating settings. A filter restriction and a pump fault need different solutions. The assessment should follow the circulation system rather than assume the most visible equipment is responsible."
+      ],
+      [
+        "Is a variable-speed upgrade worthwhile?",
+        "Compare the current installation, required operating tasks, controls, and compatible replacement choices. A larger pump is not automatically a better fit. Ask how the proposed equipment will support cleaning, filtration, heating, and features, and how it will be configured. Any energy or cost estimate should reflect the actual installation and use."
+      ],
+      [
+        "What should the pump quote include?",
+        "Confirm diagnosis, the exact parts or replacement equipment, plumbing or control changes, and the operating checks after installation. Ask which additional faults would change the price and how approval works. Provide the property address and access details so a pump repair appointment is scoped for your Frisco backyard."
+      ]
+    ],
+    "prepare": [
+      "Pump model and displayed faults",
+      "Startup or noise pattern",
+      "Photos of the first visible leakage",
+      "Normal filter pressure and recent changes"
+    ],
+    "related": [
+      "pool-filter-repair",
+      "pool-plumbing-repair",
+      "pool-equipment-warranty-service"
+    ],
+    "catalog_description": "Diagnose leaks, unusual noise, starting problems, loss of prime, and weak circulation before choosing repair or replacement."
+  },
+  {
+    "slug": "pool-filter-repair",
+    "name": "Pool Filter Repair",
+    "category": "Repairs",
+    "image": "/assets/pool-photos/pool-21.webp",
+    "alt": "Pool filter vessels and connected circulation plumbing",
+    "description": "Pool filter repair in Frisco for leaking housings, damaged elements, valve problems, recurring pressure changes, and dirt returning to the pool.",
+    "lead": "Cleaning a filter and repairing a failed filter component are different scopes. If debris returns immediately, pressure behaves differently, or the vessel leaks, describe the actual pattern before requesting another cleaning. A repair assessment should identify the filter type, condition, and affected components while keeping the pressurized system safe.",
+    "scope": [
+      [
+        "Filter condition",
+        "Identify the model and assess housings, elements, grids, seals, and visible leakage as relevant."
+      ],
+      [
+        "Valves and performance",
+        "Review unusual pressure trends, bypass concerns, and multiport or related valve behavior."
+      ],
+      [
+        "Appropriate repair",
+        "Compare serviceable parts with replacement needs and confirm post-service flow and leak checks."
+      ]
+    ],
+    "questions": [
+      [
+        "Why does dirt return after filtering?",
+        "First distinguish new material entering the pool from material that appears at the returns during operation. A damaged element, internal assembly problem, valve issue, or unsuitable maintenance method may need consideration. Share the filter model, recent work, and photos showing the pattern. Repeated cleaning does not correct a failed component."
+      ],
+      [
+        "Can a cracked filter tank be patched?",
+        "A pressurized housing needs assessment against the manufacturer’s requirements. Do not attempt an improvised patch or continue operating a visibly damaged vessel. A professional should determine which parts are serviceable and whether replacement is necessary. The quote should distinguish the housing issue from ordinary element cleaning or seal replacement."
+      ],
+      [
+        "Why is pressure high after cleaning?",
+        "Compare readings at the same pump setting and operating mode. Pressure alone does not identify the fault, and a gauge can also need attention. Ask whether restrictions, the internal assembly, valves, and circulation should be reviewed. Bring the normal post-service reading rather than relying on a generic target from a different pool."
+      ],
+      [
+        "Does my filter need cleaning or repair?",
+        "An otherwise serviceable filter collecting material may need appropriate cleaning. Torn or damaged parts, persistent leakage, or a valve that does not work properly may require repair. Ask what observations support the proposed work. Cartridge, sand, and DE equipment have different requirements, so the service should match the installed model."
+      ],
+      [
+        "Should I open the filter before the visit?",
+        "Leave disassembly and pressure-related work to a qualified pool professional. Filters can contain trapped pressure, and automation can affect equipment startup. You can help by providing labels, recent readings, and the service history without opening the tank. Follow the manufacturer’s safety guidance and arrange assessment of any visible damage or leak."
+      ],
+      [
+        "What is included in filter repair?",
+        "Confirm inspection, identified replacement parts, any cleaning needed for assessment, reassembly, and operating checks. Ask how the provider will address a finding that changes the repair scope. A dedicated filter-cleaning visit and a repair appointment should have clear boundaries, including parts and any related circulation problem."
+      ]
+    ],
+    "prepare": [
+      "Filter model and type",
+      "Comparable pressure readings",
+      "Recent cleaning or element replacement dates",
+      "When dirt or leakage first appeared"
+    ],
+    "related": [
+      "pool-filter-cleaning",
+      "pool-pump-repair",
+      "pool-plumbing-repair"
+    ],
+    "catalog_description": "Assess leaking housings, damaged elements, valve faults, returning dirt, and unusual pressure trends."
+  },
+  {
+    "slug": "pool-heater-repair",
+    "name": "Pool Heater Repair",
+    "category": "Repairs",
+    "image": "/assets/pool-photos/pool-26.webp",
+    "alt": "Pool heater installed beside circulation pipework",
+    "description": "Pool heater repair in Frisco for no-heat symptoms, error codes, slow heating, shutdowns, and pool/spa mode problems. Start with equipment diagnosis.",
+    "lead": "A heater can fail to warm the water because of its own condition or because flow and controls prevent normal operation. Record the type of heater, operating mode, requested temperature, and exact alert before the visit. The goal is to establish why heating fails, then compare a suitable repair with replacement or a different comfort system.",
+    "scope": [
+      [
+        "Fault assessment",
+        "Review gas, electric, or heat-pump symptoms, operating conditions, and model-specific alerts."
+      ],
+      [
+        "Flow and controls",
+        "Consider circulation, mode changes, sensors, and connected control behavior alongside the heater."
+      ],
+      [
+        "Repair planning",
+        "Agree on the repair or replacement scope and the heating checks included afterward."
+      ]
+    ],
+    "questions": [
+      [
+        "Why will my pool heater not start?",
+        "Record whether the display powers on, the requested temperature exceeds the displayed water temperature, and an error is present. Tell the provider whether the pump is running normally and which pool or spa mode is selected. Do not bypass a flow switch, interlock, or protective shutdown to force the equipment to heat."
+      ],
+      [
+        "What does the heater error mean?",
+        "The same short code can mean different things on different models. Send the exact wording and equipment label, along with when the alert appears. A message identifies an investigation point rather than proving that the named sensor or component must be replaced. Use the model’s documentation and a qualified diagnosis to guide the repair."
+      ],
+      [
+        "Why does it heat the spa but not the pool?",
+        "The affected operating mode is useful evidence. Settings, valves, controls, flow, and heating demand can differ between the pool and spa. Describe the sequence used and whether the heater starts at all. Have the provider test the mode that fails rather than judge the installation only by a successful spa heating cycle."
+      ],
+      [
+        "Why does heating stop after a few minutes?",
+        "A shutdown can involve protective controls, circulation, sensors, or another fault. Note the time to shutdown and any display change without repeatedly resetting the equipment. A heater that stops intentionally should have the cause investigated. The repair scope should include the conditions that trigger the symptom, not just a cold-start check."
+      ],
+      [
+        "Should I repair or replace the heater?",
+        "Compare the confirmed fault, equipment condition, parts availability, installation requirements, and your heating goals. A repair can be sensible in one installation while replacement better suits another. Ask which related flow or control issues must also be resolved, and keep optional comfort upgrades separate from the repair needed now."
+      ],
+      [
+        "What if I smell gas near the heater?",
+        "Move away, keep others clear, avoid ignition sources and electrical switches in the affected area, and contact the gas emergency service or emergency responders as appropriate. Do not restart or test the heater. A normal service request or photo assessment is not a substitute for immediate help with a suspected gas release."
+      ]
+    ],
+    "prepare": [
+      "Heater model and exact error",
+      "Pool or spa mode affected",
+      "Requested and displayed temperatures",
+      "When shutdown or slow heating occurs"
+    ],
+    "related": [
+      "pool-heating-cooling",
+      "pool-chiller-cooling-systems",
+      "pool-automation"
+    ],
+    "catalog_description": "Investigate no-heat symptoms, error codes, shutdowns, and problems affecting only pool or spa mode."
+  },
+  {
+    "slug": "pool-automation",
+    "name": "Pool Automation & Smart Controls",
+    "category": "Upgrades",
+    "image": "/assets/service-photos/automation.webp",
+    "alt": "Poolside user viewing a phone beside the water",
+    "description": "Pool automation in Frisco for connected pumps, heaters, lighting, valves, and schedules. Review compatibility, installation, programming, and owner handoff.",
+    "lead": "Automation should make the installed equipment easier to operate. Start with the tasks you want to control and an inventory of existing pumps, heating, lighting, valves, and network access. A useful Frisco automation plan defines compatibility, programming, testing, and training instead of promising that any app will work with every device.",
+    "scope": [
+      [
+        "System inventory",
+        "Identify existing equipment, supported control interfaces, required operating modes, and network conditions."
+      ],
+      [
+        "Installation and integration",
+        "Scope the panel, communication, actuators, compatible equipment, and appropriate electrical work."
+      ],
+      [
+        "Programming and handoff",
+        "Agree on useful schedules, pool/spa modes, account ownership, and a demonstration after installation."
+      ]
+    ],
+    "questions": [
+      [
+        "Will smart controls work with my equipment?",
+        "Compatibility depends on the exact models, control interfaces, and functions you want. Send labels and photos rather than only brand names. Ask which existing components can remain, which need an interface or replacement, and what functions will be supported. Mixed equipment should be assessed before a controller is purchased."
+      ],
+      [
+        "Why does the app show equipment offline?",
+        "A connection problem, controller issue, account setting, or equipment communication fault can look similar from a phone screen. Note whether normal local controls still operate the pool and when the problem began. Keep account passwords private. The scope should distinguish network troubleshooting from a failed pool component or a new installation."
+      ],
+      [
+        "Can one schedule run the pool and spa?",
+        "The programs need to suit how the pool, spa, heater, cleaner, and features interact. Explain the modes you use and any conflicts in the current routine. Ask the provider to demonstrate each agreed mode after programming. Copying another pool’s schedule can overlook different flow needs, equipment, and household use."
+      ],
+      [
+        "Will automation handle all water testing?",
+        "A controller does not automatically include chemical monitoring or dosing. Those functions require specific compatible equipment and an agreed maintenance routine. Ask exactly what the proposed system measures, controls, and reports. Even with connected features, physical cleaning, independent checks, and attention to faults remain part of pool care."
+      ],
+      [
+        "Can lighting be added to the controls?",
+        "Identify the lighting models, circuits, and desired functions before promising dimming, color selection, or scenes. Different lights support different interfaces. Any electrical work should be scoped for the actual installation and performed by an appropriately qualified professional. The handoff should show which functions operate from the panel and app."
+      ],
+      [
+        "What should installation handoff include?",
+        "Request an equipment list, the agreed schedules, demonstrated operating modes, owner access to accounts, and instructions for reporting faults. Clarify support, updates, and any subscription or connectivity dependency before approving the plan. The installation quote should separate required integration work from optional features that can be added later."
+      ]
+    ],
+    "prepare": [
+      "Equipment model inventory",
+      "Current controller and app details without passwords",
+      "Desired pool, spa, lighting, and feature modes",
+      "Connectivity concerns near the equipment"
+    ],
+    "related": [
+      "pool-pump-repair",
+      "pool-heater-repair",
+      "pool-electrical-repair"
+    ],
+    "catalog_description": "Coordinate compatible pumps, heaters, lighting, valves, and schedules with clear programming and owner handoff."
+  },
+  {
+    "slug": "saltwater-pool-conversion",
+    "name": "Saltwater Pool Conversion",
+    "category": "Upgrades",
+    "image": "/assets/pool-photos/pool-06.webp",
+    "alt": "Salt chlorine generator component beside a pool",
+    "description": "Saltwater pool conversion in Frisco. Compare generator sizing, equipment compatibility, installation scope, water testing, and ongoing salt-cell maintenance.",
+    "lead": "A saltwater conversion adds a system that generates chlorine from dissolved salt. It changes how chlorine is supplied; it does not remove the need for cleaning, balanced water, or equipment care. Plan the conversion around pool volume, current materials and equipment, circulation, and the maintenance routine you are willing to follow.",
+    "scope": [
+      [
+        "Suitability review",
+        "Review pool size, materials, existing equipment, operating needs, and conversion goals."
+      ],
+      [
+        "System selection",
+        "Compare generator capacity, controls, installation requirements, and compatible equipment."
+      ],
+      [
+        "Startup and care",
+        "Agree on startup checks, owner instructions, water-testing responsibilities, and cell maintenance."
+      ]
+    ],
+    "questions": [
+      [
+        "Is a saltwater pool chlorine-free?",
+        "No. A salt chlorine generator produces chlorine as part of its normal operation. The pool still needs appropriate water testing and a maintenance routine. If the goal is to avoid chlorine entirely, explain that before choosing a conversion. A clear explanation of how the proposed system works is more useful than a label alone."
+      ],
+      [
+        "Can any existing pool be converted?",
+        "Suitability should be reviewed for the actual finish, fixtures, equipment, plumbing arrangement, and operating goals. Ask which components are compatible and which conditions need attention first. A conversion should not be used to conceal an unresolved leak or circulation fault. Confirm the full scope before buying a generator based only on pool size."
+      ],
+      [
+        "How is the salt system sized?",
+        "Pool volume is one input, alongside use, operating conditions, runtime, and the generator’s requirements. Ask why the proposed capacity fits your installation and what output range is expected. The selected system needs to work with circulation and controls. Avoid assuming a nominal capacity figure establishes the best setup on its own."
+      ],
+      [
+        "Will conversion stop algae problems?",
+        "A salt system is not a guarantee against green water. Cleaning, testing, generator operation, and filtration still need to work together. If the pool currently has a recurring water problem, assess that condition first. A successful conversion plan should explain ongoing responsibilities rather than promise that equipment alone will eliminate maintenance."
+      ],
+      [
+        "How much cell maintenance is needed?",
+        "Inspection and cleaning are different tasks, and the appropriate routine depends on the model and observed condition. Ask how alerts, buildup, and performance will be handled and what is included in recurring service. Follow the actual equipment guidance rather than applying unnecessary aggressive cleaning or a fixed routine taken from another system."
+      ],
+      [
+        "What should a conversion quote cover?",
+        "Confirm the generator, installation, electrical or control integration, compatibility changes, startup, and owner handoff. Ask whether any initial water correction or existing equipment repair is separate. Compare the complete installed scope and ongoing care expectations; reduced manual chlorine handling does not automatically establish a particular operating-cost saving."
+      ]
+    ],
+    "prepare": [
+      "Approximate pool volume and finish type",
+      "Existing pump, controller, and heater labels",
+      "Water-test and refill history",
+      "Your goals for daily operation and maintenance"
+    ],
+    "related": [
+      "saltwater-pool-maintenance",
+      "pool-automation",
+      "weekly-service"
+    ],
+    "catalog_description": "Plan chlorine-generator capacity, compatibility, installation, startup, and the care a salt system still needs."
+  },
+  {
+    "slug": "pool-pre-purchase-inspection",
+    "name": "Pool Pre-Purchase Inspection",
+    "category": "Specialized",
+    "image": "/assets/pool-photos/pool-24.webp",
+    "alt": "Pool inspection using listening equipment beside the water",
+    "description": "Pre-purchase pool inspection in Frisco. Review visible surfaces, equipment operation, documented concerns, inspection limits, and follow-up before a home purchase.",
+    "lead": "A pool inspection should help a buyer understand what was observed, what was operated, and what could not be evaluated. Agree on the scope and access before the appointment, especially when the property is occupied or equipment cannot run. Keep an inspection separate from a repair promise, a full code certification, or a guarantee against hidden defects.",
+    "scope": [
+      [
+        "Visible condition",
+        "Review accessible surfaces, fittings, equipment layout, and documented areas of concern."
+      ],
+      [
+        "Operation and records",
+        "Agree which available pumps, controls, heating, lighting, and features can be evaluated."
+      ],
+      [
+        "Report and next steps",
+        "Document observations, limitations, and any specialist testing or repair estimates requested separately."
+      ]
+    ],
+    "questions": [
+      [
+        "What does a pool inspection include?",
+        "Ask for a written scope before booking: accessible surfaces, equipment, visible plumbing, operating checks, and the form of the report. State whether a spa, heater, automation, or water features are present. Hidden conditions and components that cannot be safely operated should be recorded as limitations, not treated as confirmed satisfactory."
+      ],
+      [
+        "Is leak testing automatically included?",
+        "Not necessarily. A visual inspection and appropriate leak-testing procedures are different scopes. If water loss is suspected, explain the evidence and ask what additional testing is proposed. Pressure testing, specialized location work, or repeat observations may require separate arrangements. Do not assume a brief inspection proves all underground lines are sound."
+      ],
+      [
+        "Can an inspection certify pool safety?",
+        "An inspection report should state what was reviewed and its limits. It is not automatically a comprehensive code-compliance certification, engineering assessment, or guarantee that every safety issue is absent. Ask about the qualifications and scope needed for specific concerns involving electrical systems, barriers, structures, or other specialist matters."
+      ],
+      [
+        "What if equipment cannot be operated?",
+        "The report should explain the access or operating limitation and which conclusions could not be reached. Ask the seller or responsible party about restoring appropriate access and whether a return visit is needed. A disconnected, winterized, empty, or non-operating system should not be evaluated as though a full functional check occurred."
+      ],
+      [
+        "Should repairs happen before closing?",
+        "Use documented findings to discuss the next step with the parties handling the purchase. Ask for separate repair estimates when useful, but keep the inspection observations distinct from negotiations and completion promises. The practical priority is understanding which concerns need further assessment and which work is actually included in any proposed repair."
+      ],
+      [
+        "How should I prepare for the appointment?",
+        "Provide the property address, available equipment records, known concerns, and the inspection deadline. Confirm permission to access the backyard and operate equipment with the responsible party. Ask when the report will be available and how any required follow-up will be handled. An appointment request alone does not guarantee availability before a contractual deadline."
+      ]
+    ],
+    "prepare": [
+      "Property address and purchase timeline",
+      "Permission and arrangements for access",
+      "Equipment and prior repair records if available",
+      "Known water-loss, surface, or operating concerns"
+    ],
+    "related": [
+      "pool-leak-detection-repair",
+      "pool-repair",
+      "pool-remodeling"
+    ],
+    "catalog_description": "Review visible condition and agreed operating checks, with documented observations, limitations, and next steps."
+  },
+  {
+    "slug": "pool-deck-coping-joint-repair",
+    "name": "Pool Deck & Coping Joint Repair",
+    "category": "Remodeling",
+    "image": "/assets/service-photos/deck-joints.webp",
+    "alt": "Damaged pool edge and adjoining surface near the deck",
+    "description": "Pool deck and coping joint repair in Frisco. Assess deteriorated mastic, gaps, water entry, movement, and the boundary between joint work and structural repair.",
+    "lead": "The flexible joint between deck and coping is different from the tile, plaster, or structural shell. When joint material pulls away, splits, or is missing, start by identifying the affected area and any associated movement. The repair plan should match the joint and surrounding materials, with separate attention to unstable coping or structural concerns.",
+    "scope": [
+      [
+        "Joint assessment",
+        "Document missing material, separation, deterioration, and the condition of adjacent edges."
+      ],
+      [
+        "Appropriate preparation",
+        "Scope removal, preparation, compatible materials, and protection of nearby finishes."
+      ],
+      [
+        "Finish and limitations",
+        "Confirm the completed joint work, cure and use instructions, and issues requiring other repairs."
+      ]
+    ],
+    "questions": [
+      [
+        "Why is the deck joint pulling apart?",
+        "Weathering, movement, adhesion, preparation, and material condition can all affect a joint. Photograph the location and note whether the change is gradual or new. A visible gap does not establish the underlying cause. Ask whether the issue is limited to the joint material or involves adjacent coping, concrete, or other movement."
+      ],
+      [
+        "Can new mastic go over the old material?",
+        "The appropriate preparation depends on the existing joint and the selected material’s requirements. Ask how deteriorated material, debris, and unsuitable surfaces will be handled. A quick surface cover should not be confused with a properly scoped joint repair. The quote should explain preparation, installation, and the limitations of the proposed work."
+      ],
+      [
+        "Will joint repair stop every water problem?",
+        "No single joint treatment proves that all water entry or pool leakage has been resolved. Explain whether the concern is rain entering a gap, a changing pool level, or wet ground. Those observations may require different assessment. If there is unexplained pool-water loss, discuss leak investigation rather than treating joint replacement as a guaranteed cure."
+      ],
+      [
+        "Does loose coping need separate work?",
+        "Loose, damaged, or unstable coping may need repair beyond replacing flexible joint material. Record which pieces move or show damage without testing them aggressively. Ask how the surrounding condition affects the proposed scope and whether a separate assessment is needed before joint work proceeds. Cosmetic filling does not rebuild an unsound edge."
+      ],
+      [
+        "How long before the area can be used?",
+        "Use and curing instructions depend on the chosen material, weather, and installation. Ask for the applicable instructions at handoff and keep the work area protected as directed. Do not assume the same timing applies to every joint product. Confirm how water exposure, foot traffic, pets, and nearby equipment access will be managed."
+      ],
+      [
+        "What should the joint-repair quote include?",
+        "Identify the affected lengths and areas, preparation, material, finish expectations, protection, cleanup, and use instructions. Ask whether coping repair, concrete work, or investigation of continuing movement is separate. A clear scope makes it easier to compare a limited joint replacement with a broader deck or coping renovation."
+      ]
+    ],
+    "prepare": [
+      "Wide and close photos of the gaps",
+      "Approximate affected lengths",
+      "Any loose coping or visible movement",
+      "Whether water loss or only surface water is involved"
+    ],
+    "related": [
+      "pool-remodeling",
+      "pool-tile-replacement",
+      "pool-leak-detection-repair"
+    ],
+    "catalog_description": "Assess deteriorated mastic, gaps, separation, and adjacent surfaces before planning joint preparation and repair."
+  },
+  {
+    "slug": "pool-equipment-warranty-service",
+    "name": "Pool Equipment Warranty Service",
+    "category": "Specialized",
+    "image": "/assets/pool-photos/pool-27.webp",
+    "alt": "Installed pool equipment with model labels for service review",
+    "description": "Pool equipment warranty service inquiries in Frisco. Organize model numbers, purchase records, symptoms, manufacturer requirements, and service authorization.",
+    "lead": "Warranty work starts with identifying the equipment and the applicable manufacturer or installer process. Call with your model details and service history to discuss the next step. Coverage, authorization, parts, labor, and who may perform the work must be confirmed for the actual product before a warranty appointment is arranged.",
+    "scope": [
+      [
+        "Equipment and records",
+        "Collect model and serial information, purchase or installation records, and the symptom history."
+      ],
+      [
+        "Eligibility and routing",
+        "Confirm the responsible warranty provider, requirements, and authorized service arrangements."
+      ],
+      [
+        "Agreed appointment",
+        "Clarify what can be scheduled, any diagnostic charges, and approval before chargeable work."
+      ]
+    ],
+    "questions": [
+      [
+        "Is my pool equipment still under warranty?",
+        "Coverage depends on the product, installation, dates, terms, and available records. A manufacturer name alone does not establish eligibility. Locate the model and serial label, invoice, and installer information. Ask the responsible warranty provider what documentation is needed and whether the issue should be assessed through a particular service process."
+      ],
+      [
+        "Are you an authorized warranty provider?",
+        "Call with the manufacturer, model, and warranty details to confirm whether your request can be handled through the required authorized service process. Manufacturers may require a particular provider or prior approval. Establish those arrangements before scheduling a repair, and use the manufacturer’s service process where an authorized provider is required."
+      ],
+      [
+        "Does warranty cover diagnosis and labor?",
+        "Do not assume that parts coverage means every visit, diagnosis, removal, installation, or related repair is included. Ask the responsible provider which costs are covered, which need approval, and what happens if the fault is not eligible. Keep the warranty decision separate from an ordinary chargeable service quote."
+      ],
+      [
+        "Should I replace the failed part first?",
+        "Before authorizing work that may affect a claim, confirm the required process and documentation with the warranty provider. Record the symptom and keep relevant service history. An unapproved replacement can complicate the next step. Immediate hazards should be handled promptly by the appropriate professional rather than waiting for a routine claims discussion."
+      ],
+      [
+        "What if the claim is not accepted?",
+        "Ask for the reason and the applicable terms from the responsible provider. If chargeable diagnosis or repair is proposed, request a separate written scope and price before agreeing. A declined claim does not itself identify the most suitable repair or prove that complete equipment replacement is necessary."
+      ],
+      [
+        "What should I send with an inquiry?",
+        "Provide the model, serial number, installation date if known, invoice or installer details, exact error, and a short history of the issue. Keep personal account details and access codes private. Confirm who will communicate with the manufacturer and whether an appointment can proceed before authorization is complete."
+      ]
+    ],
+    "prepare": [
+      "Model and serial labels",
+      "Purchase and installation records",
+      "Exact error and fault timeline",
+      "Prior claim or installer reference if available"
+    ],
+    "related": [
+      "pool-pump-repair",
+      "pool-filter-repair",
+      "pool-heater-repair"
+    ],
+    "catalog_description": "Clarify records, eligibility, approval, and the required service process before arranging warranty work."
+  },
+  {
+    "slug": "pool-plumbing-repair",
+    "name": "Pool Plumbing Repair",
+    "category": "Repairs",
+    "image": "/assets/service-photos/plumbing.webp",
+    "alt": "Pool plumbing connections and valves at an equipment pad",
+    "description": "Pool plumbing repair in Frisco for pipe leaks, failed valves, fittings, restricted flow, and suction or return concerns. Start with source identification.",
+    "lead": "A wet equipment pad, weak returns, and air in the system may involve different parts of the pool plumbing. Start by recording where and when the change appears. The repair should follow a confirmed source or fault, with clear boundaries between visible pipework, underground testing, valves, and any excavation or restoration needed.",
+    "scope": [
+      [
+        "Source and system",
+        "Review visible leakage, equipment plumbing, valve behavior, and suction or return symptoms."
+      ],
+      [
+        "Testing and access",
+        "Agree on appropriate testing and whether concealed lines or excavation require a separate scope."
+      ],
+      [
+        "Repair and restoration",
+        "Confirm materials, affected connections, operating checks, and responsibility for surrounding surfaces."
+      ]
+    ],
+    "questions": [
+      [
+        "Where is the pool plumbing leaking?",
+        "Photos can document visible moisture but do not prove the location of a hidden leak. Note whether water appears only while the pump runs, after a mode change, or continuously. A source assessment may include appropriate tests. Avoid excavating or replacing accessible fittings simply because they are nearest to a wet patch."
+      ],
+      [
+        "Why is air getting into the pump?",
+        "Air-related symptoms can involve the suction side, water level, collection points, or other equipment conditions. Record when bubbles or prime changes appear and which equipment is operating. A plumbing assessment should consider the full path rather than guess at a single connection. Turn off a dry-running pump and arrange service."
+      ],
+      [
+        "Can a faulty valve cause weak flow?",
+        "A valve or actuator that does not operate as intended can affect circulation or operating modes. Explain what changed, which returns are affected, and whether the spa or water features behave differently. Avoid forcing unfamiliar valves. Diagnosis should establish the actual restriction or control issue before deciding what to repair."
+      ],
+      [
+        "Does repair always mean digging up the yard?",
+        "Visible equipment-pad work and buried-line repairs have different access needs. Ask what testing supports the proposed repair location and whether excavation is necessary. If digging is included, clarify utility precautions, affected landscaping or paving, and restoration responsibilities. A leak assessment should not automatically become an unrestricted excavation scope."
+      ],
+      [
+        "Can plumbing work fix recurring water loss?",
+        "It can address a confirmed plumbing fault, but water loss can also involve fittings, surfaces, fill systems, or other conditions. Keep a dated record of levels, refill activity, and operating modes. Ask how the source will be established and how the proposed repair will be checked. Do not assume every refill concern comes from a buried pipe."
+      ],
+      [
+        "What belongs in the plumbing quote?",
+        "Identify the affected line, fitting, or valve; testing; materials; access; operating checks; and restoration. Ask what findings would change the plan and how additional work is approved. Electrical, structural, or surface issues discovered along the way may need separate qualified assessment rather than being silently included in a pipe-repair price."
+      ]
+    ],
+    "prepare": [
+      "Photos showing the first visible water",
+      "Timing relative to pump and spa modes",
+      "Valve and equipment layout",
+      "Nearby paving, landscaping, and access constraints"
+    ],
+    "related": [
+      "pool-leak-detection-repair",
+      "pool-pump-repair",
+      "pool-remodeling"
+    ],
+    "catalog_description": "Identify pipe leaks, damaged fittings, faulty valves, restricted flow, and access or restoration needs."
+  },
+  {
+    "slug": "pool-electrical-repair",
+    "name": "Pool Electrical Repair",
+    "category": "Repairs",
+    "image": "/assets/service-photos/electrical.webp",
+    "alt": "Pool equipment electrical controls at an outdoor installation",
+    "description": "Pool electrical repair inquiries in Frisco for tripping protection, failed lighting, pump power, heater wiring, and control faults. Arrange qualified assessment.",
+    "lead": "Electrical symptoms around water need an appropriately qualified professional and a scope that matches the installation. Report what stopped working and any protective-device trip without opening panels or bypassing protection. Discuss electrical assessment for pumps, lighting, heating, and controls, with applicable qualifications and permit responsibilities confirmed before work is arranged.",
+    "scope": [
+      [
+        "Symptom review",
+        "Document affected equipment, loss of operation, tripping protection, and visible damage from a safe position."
+      ],
+      [
+        "Qualified diagnosis",
+        "Arrange appropriate electrical assessment of the affected circuits, controls, or connected equipment."
+      ],
+      [
+        "Repair and checks",
+        "Confirm the proposed work, required approvals, and the checks included before equipment returns to use."
+      ]
+    ],
+    "questions": [
+      [
+        "Why does the pool breaker keep tripping?",
+        "A repeated trip is a reason to stop resetting the circuit and arrange qualified investigation. The cause may involve the equipment, wiring, moisture, or another fault. Describe what was running and whether the trip began after weather or recent work. Do not bypass protection or substitute a different breaker to keep the pool operating."
+      ],
+      [
+        "Why have the underwater lights stopped working?",
+        "A failed light, protective-device issue, control problem, or electrical fault can have a similar visible result. Identify which lights are affected and whether other pool equipment still operates. Do not enter the water to investigate, open a fixture, or improvise a repair. Have the installation assessed by an appropriately qualified professional."
+      ],
+      [
+        "Is tingling in the water an emergency?",
+        "Keep everyone out of the pool and contact emergency services for suspected electrical danger. Do not enter the water to investigate or attempt an in-water rescue that exposes another person to the hazard. A photo checker or ordinary callback request is not a way to clear the pool for use after an electrical concern."
+      ],
+      [
+        "Could the controller be causing the fault?",
+        "A control failure and a loss of electrical supply can both stop connected equipment. Record the displayed message, affected devices, and whether normal user controls respond. Qualified diagnosis should separate the controller, communications, circuits, and equipment. Replacing the most visible display does not establish that the electrical cause has been addressed."
+      ],
+      [
+        "Who handles permits and qualifications?",
+        "Confirm the professional’s applicable qualifications, registration, and responsibility for permits or inspections before work begins. The required arrangements depend on the actual scope and jurisdiction. Ask for the electrical work and any separate pool-equipment repair to be clearly identified in the proposal."
+      ],
+      [
+        "What information helps the first call?",
+        "From a safe position, note the affected equipment, visible alert, recent changes, and whether protection trips. Photos of accessible labels may help without opening electrical covers. Explain any immediate safety concern at the start of the call. Do not re-energize equipment merely to reproduce the symptom for a recording."
+      ]
+    ],
+    "prepare": [
+      "Affected equipment and visible fault text",
+      "When protective devices trip",
+      "Recent weather or equipment work",
+      "Accessible equipment labels without opening covers"
+    ],
+    "related": [
+      "pool-automation",
+      "pool-pump-repair",
+      "pool-heater-repair"
+    ],
+    "catalog_description": "Arrange qualified assessment of tripping protection, failed lighting, equipment power, and control-wiring concerns."
+  },
+  {
+    "slug": "pool-resurfacing",
+    "name": "Pool Resurfacing",
+    "category": "Remodeling",
+    "image": "/assets/service-photos/resurfacing.webp",
+    "alt": "Finished pool and raised spa with surrounding deck",
+    "description": "Pool resurfacing in Frisco for rough, worn, flaking, or deteriorating finishes. Compare surface assessment, preparation, materials, startup, and repair needs.",
+    "lead": "Resurfacing renews an appropriate pool interior; it is not the same as removing a stain. Start with the finish condition, previous treatments, visible damage, and known leaks. A useful project plan explains preparation, the selected finish system, any separate repairs, water handling, and the care needed after the surface is installed.",
+    "scope": [
+      [
+        "Finish assessment",
+        "Review roughness, wear, separation, recurring marks, and the existing material and treatment history."
+      ],
+      [
+        "Preparation and material",
+        "Agree on surface preparation, compatible finish options, and work around fittings, tile, or adjacent areas."
+      ],
+      [
+        "Startup and handoff",
+        "Define draining and refill responsibilities, startup care, use instructions, and project limitations."
+      ]
+    ],
+    "questions": [
+      [
+        "Does rough plaster need resurfacing?",
+        "Roughness can have different causes and should be assessed with the finish type and condition. Ask whether cleaning, limited repair, or a renewed finish is appropriate. A photo may show the texture but cannot establish the full condition. The proposal should explain why the selected treatment suits the pool rather than treating every rough area alike."
+      ],
+      [
+        "Will resurfacing stop a pool leak?",
+        "A new finish is not a guaranteed repair for an unidentified leak. Document changing water levels, returning wet areas, or previous leak work before renovation. Ask what investigation is needed and which confirmed repairs belong in the project. Covering a surface should not substitute for understanding a suspected plumbing or structural problem."
+      ],
+      [
+        "How is the old surface prepared?",
+        "Preparation depends on the existing material, condition, and proposed finish system. Ask which areas are being removed or treated and how fittings, steps, benches, and transitions will be handled. A finish price without preparation details is difficult to compare. Identify additional repairs and how discoveries during work will be approved."
+      ],
+      [
+        "Which finish is right for my pool?",
+        "Compare the appearance, texture, care expectations, compatibility, and installed scope of the proposed options. View suitable samples and ask about variation and startup requirements. Avoid choosing on a picture alone. The final selection should reflect the pool’s condition and your preferences without assuming that the most expensive material resolves unrelated equipment concerns."
+      ],
+      [
+        "Can tile and coping be done at the same time?",
+        "Coordinating related work can make the project scope clearer. Identify damaged tile, loose coping, lighting changes, fittings, and known leaks before the finish work is selected. Ask how the sequence will protect new materials and what is included in each trade’s work. Keep optional visual changes distinct from repairs required for a sound result."
+      ],
+      [
+        "When can the pool be used again?",
+        "The schedule depends on preparation, repairs, weather, material, refilling, and startup care. Request the proposed sequence and the applicable use instructions rather than a universal completion promise. Clarify who handles water care and follow-up checks after installation. Do not drain the pool in advance of a professional site-specific plan."
+      ]
+    ],
+    "prepare": [
+      "Finish material, age, and prior treatments",
+      "Photos of worn or separating areas",
+      "Known leaks or unresolved equipment concerns",
+      "Desired tile, coping, and finish changes"
+    ],
+    "related": [
+      "acid-wash-service",
+      "pool-tile-replacement",
+      "pool-remodeling"
+    ],
+    "catalog_description": "Compare finish condition, preparation, materials, related repairs, water handling, and startup care."
+  },
+  {
+    "slug": "pool-tile-replacement",
+    "name": "Pool Tile Replacement",
+    "category": "Remodeling",
+    "image": "/assets/pool-photos/pool-10.webp",
+    "alt": "Finished pool and spa with waterline tile",
+    "description": "Pool tile replacement in Frisco for missing, cracked, loose, or dated waterline tile. Compare localized repair, materials, preparation, and renovation coordination.",
+    "lead": "A stained tile and a loose or broken tile need different work. Identify whether the concern is buildup, damaged pieces, failed attachment, grout condition, or a planned visual update. Tile replacement should account for the surrounding substrate, coping, waterline, and finish so the result is more than a cosmetic cover over a continuing problem.",
+    "scope": [
+      [
+        "Damage and extent",
+        "Review affected pieces, grout, attachment, visible substrate concerns, and whether a local repair is suitable."
+      ],
+      [
+        "Materials and preparation",
+        "Compare pool-rated choices, transitions, preparation, and the appearance of repair versus replacement."
+      ],
+      [
+        "Coordination and finish",
+        "Plan related coping or surface work, protection, cleanup, and the applicable use instructions."
+      ]
+    ],
+    "questions": [
+      [
+        "Can a few missing tiles be replaced?",
+        "A localized repair may be possible, but matching materials and the condition behind the missing pieces matter. Photograph the affected run and any spare tiles. Ask whether the damage is isolated or part of a broader attachment problem. A replacement that looks similar may still differ in size, texture, or appearance from the existing tile."
+      ],
+      [
+        "Why are tiles coming loose?",
+        "Movement, substrate condition, installation, material, and surrounding defects can all need consideration. Reattaching a piece does not establish why it failed. Ask what inspection or preparation is included before replacement. If coping or adjacent surfaces are also affected, those concerns should be reviewed rather than covered by a narrow cosmetic repair."
+      ],
+      [
+        "Is calcium removal enough?",
+        "Deposits on sound tile may suit an appropriate cleaning assessment. Cracked, missing, or unstable pieces need a repair or replacement discussion. Explain which condition is present and whether marks return after cleaning. The service should distinguish cleaning the surface from restoring a damaged tile run or addressing the cause of continuing failure."
+      ],
+      [
+        "Can I use any decorative tile?",
+        "Choose materials and an installation system suited to the pool environment and location. Ask about compatibility, edges, transitions, care, and the intended appearance when wet. A decorative style alone does not establish suitability. Review samples and the installation scope with the provider before ordering materials for the project."
+      ],
+      [
+        "Should tile be replaced before resurfacing?",
+        "Discuss both scopes before setting the sequence. Tile, finish, fittings, and coping transitions can affect each other, so coordinated planning helps protect completed work. Ask which preparation, water handling, repairs, and startup tasks are included. Separate a limited tile replacement from a full renovation rather than treating the schedules as interchangeable."
+      ],
+      [
+        "What affects the replacement price?",
+        "The affected length, tile selection, matching, preparation, substrate condition, access, and related finish work all matter. Ask how damaged areas discovered during removal will be handled and approved. The quote should identify protection, cleanup, and use instructions as well as the visible new tile."
+      ]
+    ],
+    "prepare": [
+      "Wide and close photos of missing or cracked pieces",
+      "Spare tile details if available",
+      "Any loose coping or adjacent finish damage",
+      "Planned resurfacing or design changes"
+    ],
+    "related": [
+      "pool-tile-cleaning",
+      "pool-resurfacing",
+      "pool-deck-coping-joint-repair"
+    ],
+    "catalog_description": "Assess loose, missing, cracked, or outdated tile and plan appropriate materials, preparation, and related work."
+  },
+  {
+    "slug": "pool-chiller-cooling-systems",
+    "name": "Pool Chiller & Cooling Systems",
+    "category": "Upgrades",
+    "image": "/assets/service-photos/chiller.webp",
+    "alt": "Pool cooling equipment installed near a backyard pool",
+    "description": "Pool chiller and cooling systems in Frisco. Review cooling goals, system suitability, equipment location, controls, installation, and performance concerns.",
+    "lead": "If the water feels too warm for your swimming routine, start with the pool’s exposure, use, temperature pattern, and installed equipment. A dedicated chiller or suitable heating-and-cooling system should be evaluated for the actual conditions. The plan should explain the expected operating role, installation needs, control integration, and care rather than promise one temperature for every Frisco pool.",
+    "scope": [
+      [
+        "Comfort assessment",
+        "Review the water-temperature pattern, pool size, exposure, swimming goals, and existing equipment."
+      ],
+      [
+        "Equipment and siting",
+        "Compare suitable cooling approaches, space, circulation, electrical needs, and control compatibility."
+      ],
+      [
+        "Operation and care",
+        "Confirm programming, checks, owner instructions, and ongoing maintenance or repair needs."
+      ]
+    ],
+    "questions": [
+      [
+        "Why is my pool too warm to enjoy?",
+        "Water temperature is affected by the installation and conditions, including exposure, weather, circulation, and how the pool is used. Record temperatures at comparable times and explain your comfort goal. That context is more useful than selecting equipment from a single reading or assuming another pool’s cooling setup will perform identically."
+      ],
+      [
+        "Can a heat pump cool as well as heat?",
+        "Some models provide cooling while others do not. Check the exact equipment model and supported functions before assuming a mode can be added through programming. Ask how a proposed replacement or addition fits the circulation, controls, and location. The quote should identify the specific function and equipment being supplied."
+      ],
+      [
+        "How is a pool chiller selected?",
+        "Pool size, exposure, desired operation, installation conditions, and equipment requirements belong in the assessment. Ask what assumptions support the selection and which conditions affect performance. A nominal rating alone is not a complete design. Confirm compatibility, access, electrical needs, and any required changes to the equipment pad."
+      ],
+      [
+        "Why is my existing cooler not helping?",
+        "Record the model, operating schedule, displayed settings, alerts, and water-temperature pattern. A fault, unsuitable operating conditions, or a control issue can require different responses. Have the provider review the installation and equipment before assuming a larger unit is necessary. Keep diagnosis separate from an optional capacity upgrade."
+      ],
+      [
+        "Can cooling run through my pool app?",
+        "That depends on the cooling equipment, controller, communication support, and desired functions. Send both model labels and explain how you want heating and cooling modes to interact. Ask which settings will be available in the app and what remains local to the equipment. Integration should be demonstrated during handoff."
+      ],
+      [
+        "What is included in cooling installation?",
+        "Confirm the selected equipment, location, plumbing, electrical or control work, commissioning, owner instructions, and any separate approvals. Ask about maintenance, access, and what would change the proposal. The agreed scope should distinguish installation from correcting existing circulation or electrical problems that prevent suitable operation."
+      ]
+    ],
+    "prepare": [
+      "Temperature readings at comparable times",
+      "Pool size and sun-exposure description",
+      "Existing heating and control equipment labels",
+      "Comfort goals and equipment-pad constraints"
+    ],
+    "related": [
+      "pool-heating-cooling",
+      "pool-automation",
+      "pool-heater-repair"
+    ],
+    "catalog_description": "Review cooling goals, equipment suitability, installation conditions, control integration, and performance concerns."
+  },
+  {
+    "slug": "pool-removal-backyard-restoration",
+    "name": "Pool Removal & Backyard Restoration",
+    "category": "Remodeling",
+    "image": "/assets/service-photos/removal.webp",
+    "alt": "Excavator working at a backyard pool demolition site",
+    "description": "Pool removal and backyard restoration in Frisco. Discuss assessment, demolition options, approvals, utility planning, debris handling, grading, and future yard use.",
+    "lead": "Removing a pool changes the property as well as the backyard’s appearance. Begin with your intended future use and an assessment of the existing pool, access, utilities, and site conditions. A responsible proposal defines the removal method, required approvals, handling of materials, fill and grading approach, and restoration limits before demolition begins.",
+    "scope": [
+      [
+        "Property and goals",
+        "Review the existing pool, equipment, site access, known concerns, and the future use of the area."
+      ],
+      [
+        "Method and approvals",
+        "Confirm an appropriate removal approach, utilities, required permits, inspections, and responsible parties."
+      ],
+      [
+        "Restoration scope",
+        "Define debris handling, fill or grading work, documentation, landscaping, and the finished condition being provided."
+      ]
+    ],
+    "questions": [
+      [
+        "Should I remove the pool or remodel it?",
+        "Compare how you intend to use the property, the pool’s condition, ongoing ownership needs, and the scope of each option. Removal and renovation solve different goals. Ask for clearly separated proposals and identify any unresolved structural, drainage, or equipment concerns. A demolition price alone does not describe the finished backyard you will receive."
+      ],
+      [
+        "Is partial removal suitable for my property?",
+        "The appropriate method depends on site conditions, applicable requirements, and intended future use. Ask the contractor to explain the proposed approach, remaining materials, fill, inspections, and limitations. Do not assume a less extensive removal creates the same result as complete removal or that either approach suits every future construction plan."
+      ],
+      [
+        "What happens to the pool equipment and utilities?",
+        "The proposal should identify the equipment and utility connections affected, who handles appropriate disconnection, and which qualified trades are needed. Access and utility precautions belong in the plan before demolition. Keep any equipment you want retained or relocated clearly identified rather than assuming it is included or automatically reusable."
+      ],
+      [
+        "Will the yard be ready for a new structure?",
+        "Do not assume restored ground is suitable for a building, addition, or other load without the necessary assessment and approvals. Explain the future use before choosing a removal method. Ask what documentation, fill, compaction, or specialist review is proposed and what remains outside the contractor’s finished scope."
+      ],
+      [
+        "Who handles drainage and landscaping?",
+        "Define grading, drainage considerations, soil, planting, irrigation changes, paving, and cleanup in the proposal. A rough-graded area and a landscaped yard are different deliverables. Ask how the plan handles access damage and adjacent property concerns. Any remaining work should be stated so restoration expectations are clear before the project starts."
+      ],
+      [
+        "What should a removal quote include?",
+        "Confirm assessment, method, approvals, water handling, utilities, demolition, debris removal, fill, grading, inspections, and restoration limits. Ask how unexpected site conditions will be handled and approved. The schedule should account for the actual scope and requirements. Do not drain or dismantle the pool in preparation without the project team’s plan."
+      ]
+    ],
+    "prepare": [
+      "Future use of the pool area",
+      "Photos and available pool or property plans",
+      "Equipment and utility information",
+      "Access width, landscaping, and drainage constraints"
+    ],
+    "related": [
+      "pool-remodeling",
+      "pool-resurfacing",
+      "pool-plumbing-repair"
+    ],
+    "catalog_description": "Plan removal methods, approvals, utilities, debris handling, fill, grading, and the finished yard scope."
+  }
+]
