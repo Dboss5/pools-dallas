@@ -1,0 +1,20 @@
+{
+  "wordpress_service_areas": "https://poolburg.com/cities/",
+  "media_source": "PoolBurg WordPress MCP media library",
+  "media_ids": {
+    "Dallas": 21981,
+    "Fort Worth": 11497,
+    "Frisco": 21975,
+    "Plano": 21977,
+    "Allen": 21842,
+    "McKinney": 21732,
+    "Richardson": 11447,
+    "Rockwall": 21799,
+    "Southlake": 17944,
+    "Colleyville": 17960,
+    "Flower Mound": 21878,
+    "Coppell": 11429
+  },
+  "rockwall_context": "https://geog.rockwall.com/visitrockwall_about.asp",
+  "editorial_scope": "Property-specific scenarios; no neighborhood-wide fault prevalence, unverified branch addresses, or response-time claims."
+}

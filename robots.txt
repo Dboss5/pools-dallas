@@ -10,7 +10,6 @@ Disallow: /landscape-and-outdoor-accents-dfw/
 Disallow: /light-installation-packages/
 Disallow: /off-season-light-storage-dfw/
 Disallow: /pathway-light-installation-dfw/
-Disallow: /service-areas/
 Disallow: /tree-and-shrub-wrap-lighting-dallas/
 Disallow: /visualizer/
 Disallow: /holiday-lighting-allen/
