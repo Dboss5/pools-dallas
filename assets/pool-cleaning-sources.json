@@ -1,0 +1,31 @@
+{
+  "service_scope": "https://poolburg.com/weekly-service/",
+  "topic_support": [
+    "https://poolburg.com/pool-clean-up/",
+    "https://poolburg.com/pool-service-checklist/",
+    "https://poolburg.com/weekly-pool-maintenance-routine/",
+    "https://poolburg.com/pool-filter-cartridge-replacement/",
+    "https://poolburg.com/pool-tile-repair/",
+    "https://poolburg.com/pool-waterline-scum/",
+    "https://poolburg.com/salt-cell-cleaning-frequency/",
+    "https://poolburg.com/saltwater-pool-check-cell-light/"
+  ],
+  "manufacturer_and_water_care": [
+    "https://www.pentair.com/en-us/pool-spa/education-support/homeowner-support/pool-filter-product-safety-help-center/clean-clear-product-support.html",
+    "https://hayward.com/media/akeneo_connector/asset_files/A/Q/AQR159d_AquaRite_TSG_94ef.pdf",
+    "https://www.cdc.gov/healthy-swimming/about/home-pool-and-hot-tub-water-treatment-and-testing.html",
+    "https://www.cdc.gov/healthy-swimming/prevention/index.html"
+  ],
+  "images": {
+    "pool-cleaning": "https://poolburg.com/wp-content/uploads/2026/09/PoolBurg_Poolside_Dog_Lifestyle.png",
+    "weekly-service": "https://poolburg.com/wp-content/uploads/2026/08/Weekly-Pool-Cleaning-services-in-Allen-Texas.webp",
+    "green-pool-cleaning": "https://poolburg.com/wp-content/uploads/2026/06/photo-backyard-swimming-pool-green-algae-water.jpg",
+    "pool-filter-cleaning": "https://poolburg.com/wp-content/uploads/2026/04/A-person-cleaning-a-pool-filter-1.jpg",
+    "pool-tile-cleaning": "https://poolburg.com/wp-content/uploads/2026/08/pool-tile-cleaning-in-Dallas.webp",
+    "saltwater-pool-maintenance": "https://poolburg.com/wp-content/uploads/2026/06/How-to-Clean-a-Salt-Cell.webp",
+    "one-time-pool-cleaning": "https://poolburg.com/wp-content/uploads/2026/08/Pool-Cleaning-Services-In-Flower-Mound-Texas.webp"
+  },
+  "media_source": "Read-only PoolBurg WordPress MCP media library",
+  "editorial_scope": "Original service content. Model-specific tasks follow manufacturer instructions; no universal chemical dosing or promised recovery time.",
+  "tile_service_scope": "https://poolburg.com/pool-tile-restoration-and-calcium-removal/"
+}

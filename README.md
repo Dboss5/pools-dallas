@@ -15,7 +15,7 @@ Six dedicated service pages and `/services/` are now included. Each service page
 
 ## Production SEO
 
-The production hostname has not been selected. At launch run `python scripts/configure_seo.py --origin https://YOUR-ACTUAL-DOMAIN` to set absolute canonical and sharing URLs and generate a sitemap for all 21 converted pool pages. Do not use the holiday-lighting hostname. The obsolete holiday sitemap was removed. `robots.txt` excludes inherited holiday routes until those pages are converted.
+The production hostname has not been selected. At launch run `python scripts/configure_seo.py --origin https://YOUR-ACTUAL-DOMAIN` to set absolute canonical and sharing URLs and generate a sitemap for all 27 converted pool pages. Do not use the holiday-lighting hostname. The obsolete holiday sitemap was removed. `robots.txt` excludes inherited holiday routes until those pages are converted.
 
 ## Next phase
 Inherited holiday service, city, blog, and visualizer pages remain unconverted and unlinked from the pool site navigation. Convert these in a later phase before enabling those routes for indexing.
@@ -28,3 +28,7 @@ See assets/pool-media-sources.json for media provenance. PoolBurg images current
 ## Service areas
 
 `/service-areas/` is now a filterable directory of twelve original city guides: Dallas, Fort Worth, Frisco, Plano, Allen, McKinney, Richardson, Rockwall, Southlake, Colleyville, Flower Mound, and Coppell. Guides use distinct question-led content, city media from PoolBurg WordPress, related services, contextual blog links, nearby-city navigation, and city reference maps. No local branch addresses or response-time claims are implied. The production SEO script includes these pages.
+
+## Pool cleaning expansion
+
+`/pool-cleaning/` is the cleaning directory. `/weekly-service/` now covers detailed visit tasks, water testing, owner responsibilities between visits, filter/salt-system scope, records, and pricing questions. Five dedicated guides cover green-pool cleanup, one-time cleaning, filter cleaning, tile/waterline cleaning, and saltwater maintenance. All twelve city pages include individually written cleaning sections. Navigation and the production SEO script include the new routes. Content and media provenance are recorded in `assets/pool-cleaning-sources.json`.

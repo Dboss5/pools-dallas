@@ -9,6 +9,7 @@ if u.scheme!='https' or not u.netloc or u.username or u.password or u.path not i
  parser.error('--origin must be a plain HTTPS origin, such as https://your-domain.com')
 origin=args.origin.rstrip('/');root=Path(__file__).resolve().parents[1]
 routes=['/','/services/','/service-areas/']+['/'+d['slug']+'/' for d in json.loads((root/'assets/pool-services-content.json').read_text())]+['/'+d['slug']+'/' for d in json.loads((root/'assets/pool-areas-content.json').read_text())]
+routes=list(dict.fromkeys(routes+['/'+d['slug']+'/' for d in json.loads((root/'assets/pool-cleaning-content.json').read_text())]))
 for route in routes:
  path=root/route.strip('/')/'index.html' if route!='/' else root/'index.html'
  s=path.read_text();canonical=f'<link rel="canonical" href="{origin}{route}">'

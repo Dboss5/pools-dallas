@@ -2,40 +2,56 @@
   {
     "slug": "weekly-service",
     "name": "Weekly Pool Cleaning",
-    "title": "Weekly Pool Cleaning in Dallas–DFW | PoolBurg",
+    "title": "Weekly Pool Cleaning & Maintenance Dallas–DFW | PoolBurg",
     "h1": "Weekly pool cleaning<br><span>in Dallas–DFW.</span>",
-    "description": "Weekly pool cleaning in Dallas–Fort Worth. Explore cleaning, water testing, equipment checks, cloudy-water questions, and service plans with PoolBurg.",
+    "description": "Detailed weekly pool cleaning in Dallas–Fort Worth: visit tasks, water testing, brushing, vacuuming, filter and salt-system care, service notes, and pricing questions.",
     "hero": "https://poolburg.com/wp-content/uploads/2026/08/Weekly-Pool-Cleaning-services-in-Allen-Texas.webp",
     "alt": "PoolBurg weekly pool cleaning in a North Texas backyard",
     "image": "https://poolburg.com/wp-content/uploads/2026/04/ChatGPT-Image-Mar-30-2026-05_57_23-PM-1024x683.png",
     "imagealt": "Pool care image from PoolBurg’s weekly service page",
-    "lead": "Leaves keep coming back. The water looks dull. Your weekend disappears into another cleaning session. PoolBurg’s weekly pool service gives Dallas–Fort Worth homeowners a regular plan for cleaning, water care, and keeping an eye on equipment.",
+    "lead": "Weekly pool care is a repeating process of cleaning, testing, checking circulation, and recording what changed. The goal is a plan that fits your pool’s condition and use, with a clear boundary between normal maintenance, deep cleaning, and repair work.",
     "promise": "A steady routine. Fewer unanswered questions.",
     "overview": "The useful starting point is your pool’s condition today: its water clarity, debris load, equipment, and how often it is used. A maintained pool and a neglected green pool need different scopes. Confirm what the weekly plan includes before comparing monthly prices.",
     "questions": [
       [
-        "What does weekly pool service include?",
-        "A typical visit combines debris removal, brushing, basket care, water testing, and an equipment check. Vacuuming and chemical adjustments depend on the pool and agreed plan. Filter deep cleaning, salt-cell cleaning, leak detection, and repair work may be separate services. Ask for the inclusions in writing so a short visit is not mistaken for a complete maintenance plan. <a href=\"https://poolburg.com/pool-service-checklist/\">PoolBurg’s service checklist</a> explains what to ask about."
+        "What should happen during a weekly visit?",
+        "PoolBurg’s published weekly scope covers water testing and balancing, cleaning the floor and surfaces, basket care, equipment observations, filter and salt-system attention, and service notes. The actual work on a particular visit depends on the pool and agreed plan. Ask how deep cleaning, specialty treatments, and parts are distinguished from recurring work. <a href=\"https://poolburg.com/pool-service-checklist/\">The PoolBurg service checklist</a> gives a useful comparison."
       ],
       [
-        "Why is my pool still cloudy?",
-        "Cloudy water can involve filtration, circulation, water balance, or a combination of those problems. Skimming a clean-looking surface does not tell you whether the filter is capturing fine debris or the water chemistry is in range. Share recent water-test results, filter-pressure changes, and whether the returns feel weaker. Persistent poor flow may need <a href=\"/pool-repair/\">equipment diagnosis</a> alongside cleaning."
+        "Why do brushing and vacuuming both matter?",
+        "They address different places where material collects. Brushing reaches walls, steps, benches, and other surfaces, while floor cleaning removes settled debris. A cleaner moving across the floor does not establish that every surface has been brushed. Explain which features your pool has, including a spa or shallow ledge, when confirming the cleaning plan."
       ],
       [
-        "Why does my pool turn green after rain?",
-        "A storm can add debris and runoff while changing water balance and sanitizer demand. The right response starts with testing and circulation checks rather than assuming every green tint needs the same treatment. A pool that has already become green may need a separate recovery service before regular visits begin. <a href=\"https://poolburg.com/green-pool-after-rain/\">This PoolBurg guide to green water after rain</a> covers the distinction in more detail."
+        "Which water readings should be recorded?",
+        "Discuss sanitizer, pH, alkalinity, stabilizer, and calcium hardness as appropriate to the pool and current conditions. The visit record should identify what was measured, any adjustment made, and what needs attention afterward. Clear water is only one observation. The <a href=\"https://www.cdc.gov/healthy-swimming/about/home-pool-and-hot-tub-water-treatment-and-testing.html\">CDC’s home-pool testing guidance</a> explains why sanitizer and pH checks also matter between service visits."
       ],
       [
-        "Is weekly cleaning enough?",
-        "Weekly visits provide a regular maintenance rhythm, but a storm, heavy use, falling leaves, or equipment failure can create work between visits. Ask what you should monitor between appointments, how to report a change, and whether additional visits are available. <a href=\"https://poolburg.com/weekly-pool-maintenance-routine/\">PoolBurg’s weekly maintenance routine</a> connects cleaning, chemistry, and circulation without treating every pool as identical."
+        "Do I need to test water between visits?",
+        "A weekly appointment does not mean the water remains unchanged until the next one. Swimming, weather, debris, and equipment operation can affect the pool between visits. Ask the team for an owner routine that follows your equipment and product instructions, including how to report abnormal readings. The CDC recommends regular testing more frequently than a weekly visit, particularly when use increases."
       ],
       [
-        "Does a saltwater pool need cleaning?",
-        "Yes. A salt chlorine generator does not remove leaves, brush surfaces, empty baskets, or inspect the filtration system. Its output also depends on operating conditions and equipment condition. Tell the team that your pool uses a salt system and ask whether cell inspection or cleaning is part of the plan or quoted separately."
+        "What if my pool uses a salt system?",
+        "Salt equipment produces chlorine; it does not replace physical cleaning, water testing, or filtration. Confirm how the plan handles the cell and operating readings, then use the <a href=\"/saltwater-pool-maintenance/\">saltwater maintenance guide</a> for warning lights, scale, and questions about cleaning or diagnosis."
       ],
       [
-        "How much does weekly pool service cost?",
-        "Pricing depends on pool size, condition, debris, access, service frequency, and the agreed chemical and cleaning scope. Request a quote for your address rather than comparing a monthly headline price alone. Confirm whether an initial cleanup, filter service, or equipment repair is separate, and how extra work will be approved."
+        "When is filter deep cleaning separate?",
+        "Filter condition and model determine the work. A routine check or model-appropriate attention during a visit can differ from disassembly, deep cleaning, inspection, and replacement elements. The <a href=\"/pool-filter-cleaning/\">filter-cleaning guide</a> explains what to confirm when pressure, flow, or repeated cloudiness suggests a dedicated appointment."
+      ],
+      [
+        "Why does the pool look worse after a storm?",
+        "A storm can change debris load, water condition, and equipment operation. Tell the team about runoff, overflow, power interruptions, and visible changes instead of waiting for the usual visit without reporting the issue. If the pool has become green or heavily clouded, <a href=\"/green-pool-cleaning/\">recovery work</a> may need a different scope from ongoing care."
+      ],
+      [
+        "Can I start weekly care with a dirty pool?",
+        "Yes, request an assessment, but clarify the starting work. A pool with accumulated debris, green water, or a circulation fault may need a cleanup or repair before its normal routine is established. Compare <a href=\"/one-time-pool-cleaning/\">one-time cleaning</a> with recurring care so the first visit and ongoing price describe different tasks clearly."
+      ],
+      [
+        "How much does weekly pool cleaning cost?",
+        "Pool size, features, condition, debris, access, equipment, and the agreed service cadence influence the quote. Ask about standard chemical inclusions, specialty treatments, deep cleaning, and repair charges. Compare written scopes rather than the headline price alone. <a href=\"https://poolburg.com/weekly-pool-maintenance-routine/\">PoolBurg’s maintenance-routine guide</a> connects the ongoing tasks to the pool’s needs."
+      ],
+      [
+        "What should my visit notes tell me?",
+        "A useful record explains the work completed, water readings and adjustments, equipment observations, anything that prevented normal service, and recommended next steps. Ask which findings require your approval, how to contact the team between visits, and what instructions apply after a treatment or change. The notes should help you understand the visit without claiming that one reading guarantees the entire week."
       ]
     ],
     "matrixtitle": "What kind of care does my pool need?",
@@ -66,6 +82,20 @@
       "pool-repair",
       "pool-leak-detection-repair",
       "acid-wash-service"
+    ],
+    "scope": [
+      [
+        "Remove the debris",
+        "Surface skimming, netting, brushing, floor care, and basket attention address different parts of the cleaning load."
+      ],
+      [
+        "Test and assess the water",
+        "Review sanitizer, pH, and other balance readings appropriate to the pool and current conditions; record actions rather than judging by color alone."
+      ],
+      [
+        "Check operation and communicate",
+        "Observe circulation, filter pressure, visible leaks, and equipment behavior, then document work and recommendations."
+      ]
     ]
   },
   {
