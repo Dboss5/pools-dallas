@@ -29,3 +29,9 @@ Edit `assets/frisco-local-content.json` and run `python scripts/build_frisco_loc
 `/services/` presents 21 primary services with search and category filters, plus five additional cleaning guides. Fourteen dedicated service pages extend the earlier service coverage. All calls and texts use 945-777-3345 and all content is branded Frisco Pool Services. Photos are local, with no prior-company logos or hotlinks.
 
 Edit `assets/pool-expanded-services.json` and run `python scripts/build_pool_service_catalog.py` to rebuild the expanded service pages and directory. `assets/pool-service-catalog.json` records the 21 entries and their correct local destinations. Warranty eligibility, authorized-service arrangements, and required qualifications are confirmed for the actual request; no unsupported authorization or certification is advertised.
+
+## Website search
+
+Every pool header and mobile menu links to `/search/`. Search indexes the 53 public pool pages, ranks title and heading matches, and supports service, location, and tools filters. Results are rendered locally from `assets/site-search-index.json`; query URLs can be shared. The search page is noindex and is excluded from search results and the sitemap. Legacy lighting pages are excluded.
+
+After page content changes, run `python scripts/build_site_search.py` to refresh the index.
