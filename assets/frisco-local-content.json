@@ -1,0 +1,592 @@
+[
+  {
+    "name": "Starwood",
+    "slug": "frisco-neighborhoods/starwood-pool-service",
+    "kind": "Neighborhood",
+    "focus": "Debris, shaded water, and a dependable visit routine",
+    "summary": "Pool cleaning and equipment care for private pools in Starwood, Frisco. Work through leaf buildup, recurring cloudiness, weak skimming, and access planning.",
+    "context": "Starwood’s community website describes a gated neighborhood of custom homes on rolling terrain. For a private pool here, the useful starting point is the actual backyard: nearby trees, shade, equipment access, and the way debris moves toward the skimmers. A wooded view does not diagnose a pool fault. It helps frame a maintenance discussion that fits your property instead of a standard visit that overlooks recurring trouble.",
+    "source": "https://starwoodfrisco.com/",
+    "image": "pool-23.webp",
+    "questions": [
+      [
+        "Why do leaves stay on the pool floor?",
+        "Surface skimming cannot remove everything that has already sunk. Note whether debris gathers near steps, behind a spa wall, or along a sheltered corner. A cleaner’s route, return direction, basket loading, and cleaning frequency can all matter. Share a wide photo and the cleaner model so the visit can address the missed area, not simply remove the same pile again.",
+        "weekly-service"
+      ],
+      [
+        "Why is my shaded pool still cloudy?",
+        "Shade does not establish the right water balance or prove that filtration is effective. Record whether haze follows a storm, a busy swimming day, or a change in the pump schedule. Bring recent test results and the filter’s normal pressure. Water testing and a circulation check are more useful than assuming every shaded pool needs the same treatment.",
+        "pool-filter-cleaning"
+      ],
+      [
+        "Why does one skimmer collect everything?",
+        "Compare the water level, visible basket condition, and surface movement at each opening. An uneven collection pattern may involve wind and return flow, but it can also warrant equipment investigation. Do not adjust hidden valves without knowing their function. Explain which skimmer changed and whether the cleaner or water features run at the same time.",
+        "pool-repair"
+      ],
+      [
+        "Can leaves cause poor pump flow?",
+        "A heavy debris load can interfere with collection points and circulation. The timing helps: did flow weaken after leaves arrived, or was it already poor? Ask the team to distinguish routine debris removal from a suction or equipment problem. If the pump runs dry, turn it off and arrange service rather than repeatedly trying to restore prime.",
+        "pool-repair"
+      ],
+      [
+        "How should gated pool visits be arranged?",
+        "Discuss the authorized entry procedure, backyard gate, pets, and the route to the equipment before confirming a visit. Keep access instructions out of public photo reports. A reliable weekly plan also needs agreement on what happens if access is unavailable or weather interrupts the work. Do not assume a community gate arrangement gives access to your private yard.",
+        "weekly-service"
+      ],
+      [
+        "Is a deep cleanup part of weekly care?",
+        "A first visit with accumulated leaves and neglected water may need more time and different work from the later maintenance routine. Ask for an initial condition assessment, the recovery tasks, and the point at which recurring service starts. Compare the agreed scope, including filter attention and equipment observations, rather than judging two plans only by the recurring price.",
+        "one-time-pool-cleaning"
+      ]
+    ],
+    "visit": [
+      "Map the debris pattern around steps, benches, and sheltered water.",
+      "Compare baskets, cleaner coverage, and equipment behavior with the normal routine.",
+      "Agree on initial cleanup, recurring care, and authorized access separately."
+    ],
+    "brief": [
+      "A wide view showing nearby trees and shaded sections",
+      "Cleaner model and the areas it misses",
+      "Normal filter pressure and recent changes in flow",
+      "Your approved entry process and pet arrangements"
+    ],
+    "services": [
+      "weekly-service",
+      "pool-filter-cleaning",
+      "one-time-pool-cleaning"
+    ]
+  },
+  {
+    "name": "Stonebriar Village",
+    "slug": "frisco-neighborhoods/stonebriar-village-pool-service",
+    "kind": "Neighborhood",
+    "focus": "Pool-and-spa controls, water features, and unexplained water loss",
+    "summary": "Pool service in Stonebriar Village, Frisco, with practical guidance on spa spillovers, changing water levels, heating errors, and coordinated equipment diagnosis.",
+    "context": "The Stonebriar Village association describes a guarded community around a golf course in southwestern Frisco, with greenbelts and ponds. The pool in your yard is its own system. If it includes a raised spa, spillover, heater, or multiple scheduled features, explain which mode was running when the symptom appeared. This guide focuses on separating a control or circulation issue from a suspected leak before choosing a repair.",
+    "source": "https://www.stonebriarvillage.com/",
+    "image": "pool-26.webp",
+    "questions": [
+      [
+        "Why does my spa empty overnight?",
+        "A falling spa level can involve how water moves between the spa and pool when equipment stops, as well as an actual leak. Note where the water ends up, whether the pool rises, and which mode was used last. A valve or check-valve assessment may belong alongside leak testing. A photograph alone cannot establish which component is responsible.",
+        "pool-leak-detection-repair"
+      ],
+      [
+        "Why did the spillover stop working?",
+        "Check the operating mode and schedule from the normal user controls, then describe whether other returns still have flow. A changed program, actuator behavior, or circulation restriction can produce a similar visible result. Photograph the controller screen and equipment labels. Avoid forcing actuators or turning unfamiliar valves just to make the feature run again.",
+        "pool-repair"
+      ],
+      [
+        "Why will the spa not get hot?",
+        "Record the requested temperature, displayed water temperature, operating mode, and any fault message. A heater problem may be connected to flow or controls, so buying a replacement heater first can miss the cause. Explain whether pool heating still works and whether the spa reaches temperature slowly or never begins heating at all.",
+        "pool-heating-cooling"
+      ],
+      [
+        "Is the waterfall causing water loss?",
+        "Water features can change evaporation and splash-out, but they do not rule out a leak. Keep a dated record of water level, feature runtime, weather, and autofill activity. Tell the team whether the loss changes with the feature on or off. The comparison guides the inspection scope; it does not locate a leak by itself.",
+        "pool-leak-detection-repair"
+      ],
+      [
+        "Should controls be replaced during remodeling?",
+        "Start with compatibility and the problems you want solved: unreliable mode changes, awkward scheduling, heater coordination, or a planned equipment upgrade. Keep necessary repairs separate from optional automation improvements. Ask how existing pumps, lighting, valves, and heating will be integrated and tested after the work, rather than choosing a controller only for its app.",
+        "pool-remodeling"
+      ],
+      [
+        "What makes the repair quote change?",
+        "One failed component and several systems that do not communicate are different jobs. Share equipment model numbers, the exact sequence that triggers trouble, and any previous repairs. Ask whether the quote includes diagnosis, parts, configuration, and checking both pool and spa modes. Confirm gate access and availability directly before arranging work.",
+        "pool-repair"
+      ]
+    ],
+    "visit": [
+      "Document the pool and spa operating modes before changing equipment.",
+      "Investigate water movement, flow, and control response in the affected mode.",
+      "Confirm the repair scope and recheck the features included in the work."
+    ],
+    "brief": [
+      "Pool, spa, spillover, and equipment photos",
+      "Controller model and screenshots of normal settings",
+      "Dated notes on water loss and autofill activity",
+      "Heater errors and the mode in which they appear"
+    ],
+    "services": [
+      "pool-repair",
+      "pool-leak-detection-repair",
+      "pool-heating-cooling"
+    ]
+  },
+  {
+    "name": "Phillips Creek Ranch",
+    "slug": "frisco-neighborhoods/phillips-creek-ranch-pool-service",
+    "kind": "Neighborhood",
+    "focus": "Storm cleanup, returning green water, and the source of debris",
+    "summary": "Pool cleaning in Phillips Creek Ranch, Frisco. Explore green-water recovery, storm debris, sediment, repeat cloudiness, and the difference between cleanup and repair.",
+    "context": "Phillips Creek Ranch’s official community information describes green space, lakes, creeks, and trails. Those features establish the setting, not the condition of an individual pool. After a windy or wet period, describe what actually entered your yard and water. A useful service plan separates floating debris, settled dirt, water appearance, and circulation so that an initial cleanup does not become a repeating treatment without explanation.",
+    "source": "https://www.phillipscreekranchtx.com/visit-us/about-the-ranch/",
+    "image": "pool-08.webp",
+    "questions": [
+      [
+        "Why did my pool turn green after rain?",
+        "Green water can reflect several conditions, and rain timing alone does not identify the cause. Describe the water before the storm, changes in clarity, debris, recent treatment, and whether the equipment stayed on its normal schedule. A recovery assessment should include water testing and circulation. If the pool floor is not visible, keep swimmers out while the condition is assessed.",
+        "green-pool-cleaning"
+      ],
+      [
+        "Can muddy runoff be vacuumed away?",
+        "Settled material and continuing entry from the yard need separate attention. Photograph the entry point, deck edges, and low areas before cleaning hides the pattern. Tell the team if the material returns after each rain or irrigation cycle. Agree on an appropriate cleanup method for the pool and filter, and discuss drainage concerns with the relevant property professional.",
+        "one-time-pool-cleaning"
+      ],
+      [
+        "Why does green water keep coming back?",
+        "Repeatedly improving the color without checking the whole system can leave an underlying problem unresolved. Compare the treatment record, filter performance, circulation, and the interval before the change returns. Ask what recovery milestones will be checked before switching to weekly maintenance. Do not assume proximity to a creek or lake explains the condition of your pool.",
+        "green-pool-cleaning"
+      ],
+      [
+        "Why is the filter dirty again so soon?",
+        "A recovery cleanup may send more material through the filter than an ordinary maintenance week. Record pressure under comparable operating conditions and note whether return flow changes. Ask when the filter should be inspected during recovery and which follow-up work is included. A damaged or ineffective component needs a different response from a filter that is simply collecting debris.",
+        "pool-filter-cleaning"
+      ],
+      [
+        "Should I drain the pool to clear it?",
+        "Do not empty a pool as preparation for a cleaning appointment. The finish, construction, site conditions, groundwater, and proposed work all affect whether draining is suitable. First identify what testing and treatment may accomplish without that step. If draining is proposed, have the provider plan discharge and refill responsibilities using current City of Frisco guidance.",
+        "acid-wash-service"
+      ],
+      [
+        "What should happen after the cleanup?",
+        "Ask for a clear handoff: the observed condition, work completed, remaining equipment concerns, water-testing follow-up, and the proposed routine. A green-pool recovery and regular weekly care are different scopes. If dirt keeps entering from outside the pool, discuss that source separately so the next storm does not simply recreate the original request.",
+        "weekly-service"
+      ]
+    ],
+    "visit": [
+      "Record water appearance and the visible route of incoming debris.",
+      "Scope cleanup and filter follow-up around the actual condition.",
+      "Identify remaining equipment or property concerns before recurring care begins."
+    ],
+    "brief": [
+      "Photos before cleanup, including the yard-to-deck boundary",
+      "When the storm occurred and when color changed",
+      "Recent test results and chemical-treatment history",
+      "Equipment runtime and any outage or loss of flow"
+    ],
+    "services": [
+      "green-pool-cleaning",
+      "one-time-pool-cleaning",
+      "pool-filter-cleaning"
+    ]
+  },
+  {
+    "name": "The Trails of West Frisco",
+    "slug": "frisco-neighborhoods/the-trails-pool-service",
+    "kind": "Neighborhood",
+    "focus": "Fine dirt, recurring filter pressure, and cleaner coverage",
+    "summary": "Private pool care in The Trails of West Frisco. Get answers about dirt that returns, weak returns, filter pressure, cleaner performance, and weekly cleaning scope.",
+    "context": "The Trails of West Frisco association describes a northwest Frisco neighborhood with trails, creeks, greenbelts, and a neighboring golf club. For a private backyard pool, the important distinction is between material arriving from the surroundings and material that the circulation system fails to remove. This page helps organize those observations. Community amenity pools have a separate operator and are not covered by a homeowner’s backyard service request.",
+    "source": "https://www.thetrails.com/about",
+    "image": "pool-02.webp",
+    "questions": [
+      [
+        "Why does fine dirt return after vacuuming?",
+        "Note whether it reappears while the cleaner runs, only after the pump starts, or after wind and yard work. These patterns suggest different inspection priorities, including collection, filter condition, return behavior, or new material entering the water. A close-up of the dirt is useful, but include a wide view showing where it settles and which returns are nearby.",
+        "pool-filter-cleaning"
+      ],
+      [
+        "Why is my filter pressure always high?",
+        "A single number is not a diagnosis. Bring the filter model and the normal reading after appropriate service, measured at comparable pump settings. A rising trend with weaker returns is more informative than comparing your gauge with a neighbor’s. Ask whether the agreed work includes cleaning, checking the gauge, inspecting internal parts, and reviewing circulation.",
+        "pool-filter-cleaning"
+      ],
+      [
+        "Why does my cleaner miss the steps?",
+        "A cleaner can be functioning yet leave steps, shelves, benches, or tight corners untouched. Show the missed areas and identify the cleaner type. Discuss manual attention and brushing in the weekly scope, as well as whether the cleaner’s operation needs assessment. Buying another cleaner without checking its coverage limits may leave the same areas dirty.",
+        "weekly-service"
+      ],
+      [
+        "Can weak returns make the water cloudy?",
+        "Circulation is one part of water clarity, alongside water balance and the filter’s ability to capture material. Describe when the flow weakened and whether it affects every return. Ask for testing and equipment assessment if the haze persists after normal cleaning. Do not treat clear-looking water as proof that the system is operating correctly.",
+        "pool-repair"
+      ],
+      [
+        "Is backwashing right for every filter?",
+        "No. Service methods depend on the filter type and manufacturer’s requirements. Cartridge, sand, and DE equipment should not receive the same maintenance procedure merely because a pressure gauge rises. Photograph the equipment label before requesting deep cleaning. Have the provider explain the appropriate method, waste handling, and any separate replacement parts in the quote.",
+        "pool-filter-cleaning"
+      ],
+      [
+        "When does a dirty pool need repair?",
+        "Cleaning removes material; it does not repair a torn component, a failing pump, or a control problem. If the pool becomes dirty immediately after visits, compare records from before and after service. Ask which observations support a routine change and which justify a diagnostic appointment. A combined plan should make the responsibilities and pricing for each part clear.",
+        "pool-repair"
+      ]
+    ],
+    "visit": [
+      "Compare recurring dirt locations with cleaner and return coverage.",
+      "Review pressure and flow under comparable operating conditions.",
+      "Separate manual cleaning needs from filter service and equipment repairs."
+    ],
+    "brief": [
+      "Filter and cleaner model labels",
+      "Normal and current pressure at the same pump setting",
+      "A photo sequence showing how quickly dirt returns",
+      "Missed steps, benches, or low-circulation corners"
+    ],
+    "services": [
+      "pool-filter-cleaning",
+      "weekly-service",
+      "pool-repair"
+    ]
+  },
+  {
+    "name": "Newman Village",
+    "slug": "frisco-neighborhoods/newman-village-pool-service",
+    "kind": "Neighborhood",
+    "focus": "Waterline marks, finish condition, and thoughtful renovation planning",
+    "summary": "Pool surface and equipment care in Newman Village, Frisco. Compare waterline cleaning, scale assessment, recurring stains, acid washing, and remodeling scope.",
+    "context": "Newman Village’s Homestead information describes landscaped grounds, a village plaza, and European and Mediterranean architectural influences. That design setting makes coordination useful when a pool surface, tile, coping, or equipment upgrade is being considered. The correct treatment still depends on the actual materials and condition at your property. This guide starts with preserving what is sound and identifying what needs repair before selecting cosmetic work.",
+    "source": "https://www.nvhomestead.com/about",
+    "image": "pool-16.webp",
+    "questions": [
+      [
+        "Why is there a white ring on the tile?",
+        "A white waterline deposit can have different characteristics, and a photo does not establish its composition or the safest removal method. Share the tile material, approximate age, recent water-test history, and whether the mark returns soon after cleaning. Ask for an assessment of the deposit and finish compatibility before choosing a chemical or abrasive process.",
+        "pool-tile-cleaning"
+      ],
+      [
+        "Can tile cleaning damage the finish?",
+        "The method should match the tile, grout, surrounding surface, and condition. Ask how delicate edges, loose pieces, adjacent stone, and existing defects will be handled. An aggressive method is not automatically a better one. Have the provider distinguish cleaning from tile repair and explain the expected limitations before work starts on a decorative or aging surface.",
+        "pool-tile-cleaning"
+      ],
+      [
+        "Why does the same stain return?",
+        "The pattern matters: a single recurring spot, a broad discoloration, and a waterline band can point to different inspection needs. Record its location, timing, and response to past treatments. A visible improvement does not prove the source is resolved. Discuss investigation of the finish and nearby fittings rather than repeating a cosmetic treatment without a plan.",
+        "acid-wash-service"
+      ],
+      [
+        "Is acid washing the right next step?",
+        "A suitable stained surface and a deteriorating finish are different starting points. Ask whether the finish can tolerate the proposed work and what alternatives exist. Acid washing does not rebuild missing material or correct a structural problem. Do not drain the pool ahead of the assessment; draining and discharge need their own site-specific plan.",
+        "acid-wash-service"
+      ],
+      [
+        "Should coping and equipment be planned together?",
+        "If remodeling is already under consideration, document known leaks, lighting concerns, controls, and circulation problems before new finish work covers access points. Separate essential repairs from visual changes. Ask how the proposed tile, coping, and equipment scope will be coordinated, who handles any required approvals, and what will be checked before the project is handed back.",
+        "pool-remodeling"
+      ],
+      [
+        "What belongs in a surface-care quote?",
+        "List the exact areas, materials, and visible defects, then ask whether preparation, protection, cleaning, repairs, and follow-up water care are included. A tile-cleaning price is not directly comparable with a resurfacing proposal. Discuss access and protection of the surrounding patio or landscaping so the agreed scope reflects the entire work area, not just the pool water.",
+        "pool-remodeling"
+      ]
+    ],
+    "visit": [
+      "Identify tile, grout, coping, and finish materials before selecting treatment.",
+      "Document returning stains and existing defects separately.",
+      "Coordinate cleaning or renovation with known leak and equipment concerns."
+    ],
+    "brief": [
+      "Wide views and close-ups of stains or damaged edges",
+      "Finish and tile materials, age, and prior treatments",
+      "Recent water results and the timing of returning marks",
+      "Any planned patio, coping, lighting, or equipment changes"
+    ],
+    "services": [
+      "pool-tile-cleaning",
+      "acid-wash-service",
+      "pool-remodeling"
+    ]
+  },
+  {
+    "name": "Richwoods",
+    "slug": "frisco-neighborhoods/richwoods-pool-service",
+    "kind": "Neighborhood",
+    "focus": "Salt systems, control settings, and water that will not stay clear",
+    "summary": "Pool cleaning and repair for private pools in Richwoods, Frisco. Work through salt-cell alerts, chlorine generation, circulation changes, and control schedules.",
+    "context": "Richwoods’ developer describes a private, gated Frisco community with parks and shared amenities. This guide is for the pool at your home, not the association’s amenity pool. If your backyard uses a salt chlorine generator or programmed controls, write down the actual models and settings. The right service conversation connects cleaning, water testing, flow, and the control system rather than treating a warning light as a complete diagnosis.",
+    "source": "https://www.johnlandoncompanies.com/projects/richwoods/",
+    "image": "pool-06.webp",
+    "questions": [
+      [
+        "Why is the salt-cell light flashing?",
+        "An alert can refer to inspection, flow, salt level, temperature, or another model-specific condition. Record the exact message, model, and time it appears. Do not assume that cleaning or replacing the cell is the only answer. Have the provider interpret the alert alongside water testing and operating conditions, using the instructions for the actual equipment.",
+        "saltwater-pool-maintenance"
+      ],
+      [
+        "Why is my saltwater pool turning green?",
+        "A salt system does not remove debris or eliminate the need for testing and filtration. Note the recent generator output, pump schedule, alerts, water appearance, and any interruption to equipment operation. A green-water assessment should examine the whole maintenance and circulation picture. Repeatedly increasing output without understanding the cause can leave the original problem unresolved.",
+        "green-pool-cleaning"
+      ],
+      [
+        "Does a salt cell need cleaning every visit?",
+        "Cell inspection and cell cleaning are different tasks. Ask how the model’s guidance and observed buildup determine when cleaning is needed, and whether the service plan includes that work. Unnecessary aggressive cleaning can be inappropriate for the equipment. Share past service dates and recurring alerts so the team can distinguish a maintenance need from a performance problem.",
+        "saltwater-pool-maintenance"
+      ],
+      [
+        "Why did an app change stop circulation?",
+        "A schedule or operating-mode change can affect how connected equipment works together. Document what changed and whether the pump, heater, cleaner, or generator behaves differently. Avoid resetting every setting before the visit, since that may remove useful context. Ask for a control and equipment assessment rather than assuming the water only needs additional cleaning.",
+        "pool-repair"
+      ],
+      [
+        "Is a low-salt warning always accurate?",
+        "A displayed warning needs interpretation using the system model, operating conditions, and a suitable independent water test. It does not justify adding material blindly. Note whether the message began after a refill, a temperature change, or equipment work. The service scope should establish what was measured and what was checked before recommending an adjustment or replacement.",
+        "saltwater-pool-maintenance"
+      ],
+      [
+        "What should weekly saltwater care include?",
+        "Confirm physical cleaning, water testing, baskets, equipment observations, and reporting of system alerts. Ask separately about cell inspection, cell cleaning, filter deep cleaning, and parts. The generator is one component of the routine, not a substitute for it. For gated visits, agree on authorized community access and entry to the backyard before scheduling.",
+        "weekly-service"
+      ]
+    ],
+    "visit": [
+      "Record the alert and current settings without guessing at chemical adjustments.",
+      "Compare water tests with flow and generator operating conditions.",
+      "Separate routine cleaning, cell service, and any control or equipment repair."
+    ],
+    "brief": [
+      "Generator and pump model numbers",
+      "Exact alert text and current operating schedule",
+      "Recent independent water results and refill history",
+      "Dates of cell cleaning and any recent app changes"
+    ],
+    "services": [
+      "saltwater-pool-maintenance",
+      "weekly-service",
+      "pool-repair"
+    ]
+  },
+  {
+    "name": "Hollyhock",
+    "slug": "frisco-neighborhoods/hollyhock-pool-service",
+    "kind": "Neighborhood",
+    "focus": "New-owner handoffs, automation questions, and a reliable baseline",
+    "summary": "Private pool service in Hollyhock, Frisco. Get organized around unfamiliar equipment, cleaning schedules, pump settings, heating controls, and pool-care handoffs.",
+    "context": "Landon Homes’ community profile places Hollyhock in north Frisco near Highway 380 and describes parks, walking trails, and shared amenities. For homeowners with a private backyard pool, moving in or taking over maintenance is a good time to establish a baseline. A newer-looking system can still need clear operating instructions. Start with an equipment inventory and service history rather than carrying over settings whose purpose is unknown.",
+    "source": "https://landonhomes.com/community-profile-hollyhock-impression-series/",
+    "image": "pool-21.webp",
+    "questions": [
+      [
+        "What should I check after buying a pool home?",
+        "Collect the equipment manuals, model numbers, service records, and any available warranty information. Ask how to identify normal operating modes, the routine maintenance needs, and known unresolved concerns. An initial assessment should distinguish orientation from repair. The age of the house does not establish the age or condition of every pool component.",
+        "one-time-pool-cleaning"
+      ],
+      [
+        "Why does the pump have so many schedules?",
+        "Different programs may serve circulation, cleaning, heating, a spa, or water features. First document which equipment runs in each mode and what you need the pool to do. There is no single runtime that fits every installation. Ask for a review of the system and its requirements before deleting programs or copying settings from another pool.",
+        "pool-repair"
+      ],
+      [
+        "Can I keep the previous owner’s routine?",
+        "Use the old records as context, not proof that the same plan fits your household. Swimming use, nearby landscaping, equipment condition, and maintenance expectations can differ. Agree on the tasks, reporting, and separate specialty work in a weekly plan. If the water or equipment already has a problem, scope that initial work before the recurring routine.",
+        "weekly-service"
+      ],
+      [
+        "Why does heating work in only one mode?",
+        "Record whether the symptom occurs in pool mode, spa mode, or both, along with the requested temperature and displayed error. Controls, valves, flow, and heating equipment may need to be considered together. A useful diagnosis checks the mode that actually fails. Do not assume a new heater is required solely because one screen shows an unexpected temperature.",
+        "pool-heating-cooling"
+      ],
+      [
+        "Who handles a possible warranty repair?",
+        "Confirm the installer, manufacturer, equipment serial number, and the applicable warranty terms before authorizing replacement work. An ordinary service appointment does not establish warranty coverage or make us the original installer. Ask whether diagnosis, labor, parts, and claim coordination are separate, and keep records of the symptom and previous work for the responsible provider.",
+        "pool-repair"
+      ],
+      [
+        "Does the community pool share my service plan?",
+        "No private-pool request automatically covers an HOA amenity. Shared facilities have their own operator, access arrangements, and requirements. If your concern is a community pool, contact the association or its operator. For your own backyard, provide the property address and equipment details so the requested scope is tied to the correct pool.",
+        "pool-cleaning"
+      ]
+    ],
+    "visit": [
+      "Inventory equipment and identify the normal pool, spa, and feature modes.",
+      "Establish water, cleaning, and operating records for the handoff.",
+      "Agree on routine care and direct possible warranty work to the appropriate provider."
+    ],
+    "brief": [
+      "Equipment labels, manuals, and available service records",
+      "The operating modes you want to use",
+      "Any installer or warranty paperwork",
+      "Your swimming routine and planned changes to the backyard"
+    ],
+    "services": [
+      "one-time-pool-cleaning",
+      "weekly-service",
+      "pool-heating-cooling"
+    ]
+  },
+  {
+    "name": "Frisco Lakes",
+    "slug": "frisco-neighborhoods/frisco-lakes-pool-service",
+    "kind": "Neighborhood",
+    "focus": "Away-from-home care, autofill activity, and a pool that stays predictable",
+    "summary": "Private pool service in Frisco Lakes. Plan weekly care, water-level checks, equipment access, heating needs, and maintenance while you are away from home.",
+    "context": "Visit Frisco identifies Frisco Lakes Golf Club within the Del Webb Frisco Lakes community. A home’s private pool or spa has its own equipment and maintenance needs, separate from shared community facilities. If you travel or prefer a simple routine, agree on useful visit notes and the way concerns will be communicated. This guide helps you set expectations without assuming that an autofill or an app will reveal every problem.",
+    "source": "https://www.visitfrisco.com/things-to-do/frisco-lakes-golf-club/331",
+    "image": "pool-00.webp",
+    "questions": [
+      [
+        "Can an autofill hide a pool leak?",
+        "An autofill can maintain the visible water level while additional water is being used. Note changes in its activity, water use, wet areas, and equipment behavior. Tell the provider how the fill system is configured; do not alter unfamiliar controls without guidance. Leak investigation uses observations and testing, not simply whether the waterline looks normal.",
+        "pool-leak-detection-repair"
+      ],
+      [
+        "What should be checked while I am away?",
+        "Agree on the visit scope, access, water and equipment observations, and how findings will reach you. Confirm what the provider can do if an unexpected problem requires approval. Weekly visits are not continuous monitoring, and a control app does not replace site checks. Leave a responsible contact arrangement without putting private access details in public reports.",
+        "weekly-service"
+      ],
+      [
+        "Why is the pool using more water?",
+        "Record refill activity alongside weather, swimming, water-feature use, and visible wet patches. A changed pattern deserves attention, but a meter change alone does not establish that the pool is the source. Ask what observations will separate evaporation, splash-out, fill-system behavior, and a suspected leak before agreeing to an invasive repair.",
+        "pool-leak-detection-repair"
+      ],
+      [
+        "Should I turn the pump off for a trip?",
+        "A travel plan should maintain the circulation and treatment the pool needs. Do not shut down a functioning system for an extended absence simply because nobody will swim. Have the provider review the operating routine for the equipment and conditions, and agree on handling power interruptions or faults. A pump running dry needs prompt attention.",
+        "weekly-service"
+      ],
+      [
+        "Why is the spa slow to heat?",
+        "Explain the heater type, starting temperature, requested temperature, mode, and any error message. Heating performance depends on the installation and conditions, so compare actual behavior with the equipment’s intended operation. Ask whether flow, settings, and heater condition should be assessed together before discussing a larger heater or a different heating system.",
+        "pool-heating-cooling"
+      ],
+      [
+        "Can weekly visits prevent every repair?",
+        "Routine care creates opportunities to observe changes and address maintenance needs, but it is not a guarantee against equipment failure or leaks. Ask what is checked and reported, what is excluded, and how additional work is approved. A plan that clearly separates maintenance, diagnostics, and repairs makes it easier to respond when a new problem appears.",
+        "pool-cleaning"
+      ]
+    ],
+    "visit": [
+      "Document the fill system, equipment routine, and normal water level.",
+      "Agree on visit notes, authorized access, and an approval contact.",
+      "Investigate changing water use or equipment behavior before planning repairs."
+    ],
+    "brief": [
+      "Normal refill activity and recent water-use changes",
+      "Autofill information and visible wet areas",
+      "Travel dates relevant to service access",
+      "Heating goals and equipment alerts"
+    ],
+    "services": [
+      "weekly-service",
+      "pool-leak-detection-repair",
+      "pool-heating-cooling"
+    ]
+  },
+  {
+    "name": "Collin County side of Frisco",
+    "slug": "frisco-collin-county-pool-service",
+    "kind": "County",
+    "focus": "Equipment diagnosis, water clarity, and planning work at the right address",
+    "summary": "Pool cleaning, repair, and leak assessment for Frisco properties in Collin County. Compare weak flow, recurring cloudiness, stains, and coordinated renovation needs.",
+    "context": "Frisco spans Collin and Denton counties. This guide concerns the part of Frisco in Collin County; it is not a claim of coverage throughout the county. A county name is useful for confirming the property, but it does not identify your pool’s water chemistry, equipment configuration, or repair needs. Start with the exact address and a dated description of the symptom, then match the work to the pool rather than the county label.",
+    "source": "https://friscochamber.com/about-frisco/",
+    "image": "pool-20.webp",
+    "questions": [
+      [
+        "Does my county change the pool service?",
+        "The pool’s condition, equipment, access, and agreed tasks determine the work. County information helps identify the property and route the request, but it does not establish a standard maintenance package. Tell us the street address and neighborhood, then explain whether you need routine care, an initial cleanup, or investigation of a specific fault. Coverage and scheduling are confirmed directly.",
+        "pool-cleaning"
+      ],
+      [
+        "Why is the pool cloudy despite cleaning?",
+        "A recurring haze deserves a record of what happens between visits. Compare water tests, debris, pump operation, filter pressure, and return flow. Brushing and skimming address only part of the system. Ask whether the next step is a change in routine, deeper filter service, or equipment diagnosis, and what evidence supports that choice.",
+        "pool-filter-cleaning"
+      ],
+      [
+        "Why does my pump lose prime?",
+        "Record whether the change appears at startup, during cleaner operation, or after a mode change. Air, low water, restrictions, and equipment faults can produce overlapping symptoms. Do not keep a dry pump running in an attempt to resolve it. Photograph labels and the equipment arrangement so the assessment can follow the system rather than guess at a replacement part.",
+        "pool-repair"
+      ],
+      [
+        "Is low pool flow a city-water problem?",
+        "The pool’s circulation loop and the property’s incoming water supply are different systems. Describe whether the concern is weak pool returns, slow filling, or pressure at household fixtures. That distinction helps direct the request to the appropriate service. County location alone does not establish the cause, the water supplier, or which component needs attention.",
+        "pool-repair"
+      ],
+      [
+        "Will a photo identify an underground leak?",
+        "No. Photos can show water appearance, wet areas, surface marks, and equipment layout, but hidden leaks require appropriate testing. Keep a dated record of water level, fill activity, pump modes, and changing wet spots. Our photo checker can help organize visible clues and inspection areas; it does not locate an underground plumbing failure or confirm a structural defect.",
+        "pool-leak-detection-repair"
+      ],
+      [
+        "Should stains be cleaned or resurfaced?",
+        "Ask whether the finish is sound and whether the source of the mark has been identified. A stained but serviceable finish and a failing surface are different jobs. Review recurring marks, prior treatments, tile condition, and any known leaks before selecting work. A county-wide assumption about water or soil should not replace inspection of the individual pool.",
+        "acid-wash-service"
+      ],
+      [
+        "Do county rules replace Frisco approvals?",
+        "Do not use the county name as a shortcut for deciding which approvals apply. Confirm the property’s actual jurisdiction, proposed scope, and any HOA requirements. For properties within Frisco, review the city’s pool information and ask the contractor who handles required permits and inspections. A routine maintenance quote does not automatically include construction or a renovation approval process.",
+        "pool-remodeling"
+      ]
+    ],
+    "visit": [
+      "Confirm the Frisco address and clarify the symptom before scheduling.",
+      "Compare actual water and equipment observations with the service history.",
+      "Agree on maintenance, diagnostics, repairs, or renovation as separate scopes."
+    ],
+    "brief": [
+      "Full property address and neighborhood",
+      "Pump and filter labels plus comparable pressure readings",
+      "Recent water tests and the timing of recurring haze",
+      "Prior repair history and any planned renovation"
+    ],
+    "services": [
+      "pool-repair",
+      "pool-filter-cleaning",
+      "acid-wash-service"
+    ]
+  },
+  {
+    "name": "Denton County side of Frisco",
+    "slug": "frisco-denton-county-pool-service",
+    "kind": "County",
+    "focus": "Water loss, refill decisions, and a maintenance plan around your backyard",
+    "summary": "Pool service for Frisco properties in Denton County. Explore autofill concerns, repeated refilling, green-water cleanup, discharge planning, and maintenance needs.",
+    "context": "The Denton County portion is part of Frisco’s two-county geography. This page is for Frisco properties, not an offer of service across all of Denton County. Confirm the actual address and jurisdiction before planning work: a mailing description or nearby landmark is not enough. The practical focus here is water movement, refill activity, cleanup scope, and the property details that affect a pool-care visit.",
+    "source": "https://friscochamber.com/about-frisco/",
+    "image": "pool-24.webp",
+    "questions": [
+      [
+        "Why am I adding water every few days?",
+        "Start a dated record of the level, refill or autofill activity, pump schedule, water-feature use, and visible wet areas. Weather and swimming affect water use, but a change from the normal pattern deserves investigation. Ask what tests will help distinguish expected loss from a leak before authorizing repairs or assuming that the same amount is normal for every pool.",
+        "pool-leak-detection-repair"
+      ],
+      [
+        "Could wet landscaping come from the pool?",
+        "A damp area may involve irrigation, recent rain, drainage, fill plumbing, or the pool system. Photograph its position relative to equipment and note when it appears. Tell the team if the pattern changes with pool operation or watering. Testing should establish the source before excavation; a wet patch alone does not locate a buried pool leak.",
+        "pool-leak-detection-repair"
+      ],
+      [
+        "Can green water be fixed without draining?",
+        "The answer depends on the water, accumulated material, finish, and whether the equipment can support a recovery plan. Begin with assessment rather than emptying the pool. Ask what cleanup, testing, filtration, and follow-up are proposed and what would change that plan. A private pool near open space does not automatically need the same treatment as another property.",
+        "green-pool-cleaning"
+      ],
+      [
+        "Where can drained pool water go?",
+        "Discharge needs a site-specific plan and current local guidance, particularly for a saltwater pool. The City of Frisco publishes pool-maintenance guidance through its stormwater resources. Have the provider confirm the appropriate method and responsibilities before work begins. Do not direct chemically treated water toward a neighbor, shared landscape, or drain on the assumption that county location makes it acceptable.",
+        "acid-wash-service"
+      ],
+      [
+        "Does fill-water quality explain the scale?",
+        "A drinking-water report offers context, but the pool’s own testing and history are needed to assess scale or recurring deposits. Frequent refills, treatment history, surfaces, and operating conditions belong in the discussion. County lines do not establish a single hardness value for every address. Ask what was measured before deciding on a waterline treatment or equipment cleaning.",
+        "pool-tile-cleaning"
+      ],
+      [
+        "Is salt-cell care part of a weekly visit?",
+        "Ask whether the plan includes inspecting the system, interpreting alerts, and cleaning the cell when appropriate. Those are distinct from ordinary debris removal and water testing. Bring the model number and service history so the scope follows the equipment’s requirements. Confirm filter deep cleaning and repairs separately, particularly if a recent cleanup has changed the workload.",
+        "saltwater-pool-maintenance"
+      ],
+      [
+        "What affects a Frisco service appointment?",
+        "The address, access route, backyard gate, pets, equipment location, and current pool condition all matter. A neglected pool, an active leak concern, and routine weekly care should not be booked as identical work. Describe constraints before agreeing on a visit and ask how unexpected conditions or additional repairs will be approved. Availability is confirmed directly rather than promised by the county label.",
+        "weekly-service"
+      ]
+    ],
+    "visit": [
+      "Confirm the address, refill pattern, and visible water movement.",
+      "Scope cleanup or leak testing before selecting a cosmetic treatment.",
+      "Plan discharge, refill, access, and follow-up responsibilities when relevant."
+    ],
+    "brief": [
+      "Refill and autofill notes with dates",
+      "Wet-area photos and irrigation timing",
+      "Pool and salt-system details, if installed",
+      "Drainage or access constraints relevant to the work"
+    ],
+    "services": [
+      "pool-leak-detection-repair",
+      "green-pool-cleaning",
+      "saltwater-pool-maintenance"
+    ]
+  }
+]

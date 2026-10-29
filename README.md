@@ -17,3 +17,9 @@ Set the actual production origin with `python scripts/configure_seo.py --origin 
 ## Photo checker
 
 Photo screening and colour observations run on the visitor’s device. Accepted photos remain in tab memory; reports contain text only. The CPU face detector rejects detected faces and fails closed when screening fails. Detection is imperfect. Water-colour observations and symptom guidance are preliminary and cannot locate hidden leaks, determine chemistry, or certify swimming safety. Third-party detector licenses remain in `assets/vendor/`.
+
+## Frisco local guides
+
+The Frisco city guide links to `/frisco-neighborhoods/`, two guides for Frisco’s Collin and Denton County portions, and eight neighborhood guides. Local setting is grounded in linked community, developer, city, or visitor references; service priorities are planning guidance, not claims of neighborhood-wide defects or an HOA affiliation. Coverage is confirmed per address.
+
+Edit `assets/frisco-local-content.json` and run `python scripts/build_frisco_local.py` to rebuild the ten local pages and searchable directory. The citywide guide retains its separate content and city map. Shared navigation links to the directory. SEO generation includes all 39 pool routes.
