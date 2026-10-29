@@ -1,0 +1,142 @@
+[
+  {
+    "city": "Plano",
+    "file": "DART Downtown Plano station - February 2020.jpg",
+    "photo": "/assets/cities/plano.webp",
+    "author": "Danazar",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:DART_Downtown_Plano_station_-_February_2020.jpg",
+    "description": "Downtown Plano station in Plano, Texas, on the DART Light Rail Red Line in February 2020.",
+    "size": [
+      640,
+      427
+    ]
+  },
+  {
+    "city": "Frisco",
+    "file": "Frisco, Texas - City Hall.jpg",
+    "photo": "/assets/cities/frisco.webp",
+    "author": "williamedia",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frisco,_Texas_-_City_Hall.jpg",
+    "description": "Frisco, Texas - City Hall",
+    "size": [
+      640,
+      480
+    ]
+  },
+  {
+    "city": "McKinney",
+    "file": "Historic Downtown McKinney.jpg",
+    "photo": "/assets/cities/mckinney.webp",
+    "author": "Mistermckinney",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Historic_Downtown_McKinney.jpg",
+    "description": "Sunrise on the McKinney Square - Local shops getting ready for the day.",
+    "size": [
+      640,
+      457
+    ]
+  },
+  {
+    "city": "Allen",
+    "file": "Allen, Texas Train Water Station.JPG",
+    "photo": "/assets/cities/allen.webp",
+    "author": "MeekMark",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Allen,_Texas_Train_Water_Station.JPG",
+    "description": "Allen Water Station One of the only remaining stone dams in the United States used as a water station for the Houston and Texas Central Railroad (H&TC) railway. The remaining site includes the stone dam, a foundation for a pump house and a foundation for a water tower",
+    "size": [
+      640,
+      480
+    ]
+  },
+  {
+    "city": "Richardson",
+    "file": "CityLine en Richardson, Texas.jpg",
+    "photo": "/assets/cities/richardson.webp",
+    "author": "Frj",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CityLine_en_Richardson,_Texas.jpg",
+    "description": "Imagen de noche de la futura microciudad CityLine. Donde habitarán los línea-urbanitas.",
+    "size": [
+      416,
+      480
+    ]
+  },
+  {
+    "city": "Carrollton",
+    "file": "Carrollton July 2019 25 (Downtown Carrollton Station).jpg",
+    "photo": "/assets/cities/carrollton.webp",
+    "author": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Carrollton_July_2019_25_(Downtown_Carrollton_Station).jpg",
+    "description": "Downtown Carrollton Station in Carrollton, Texas (United States).",
+    "size": [
+      640,
+      427
+    ]
+  },
+  {
+    "city": "Addison",
+    "file": "Addison Circle fountains.jpg",
+    "photo": "/assets/cities/addison.webp",
+    "author": "Mahanga",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Addison_Circle_fountains.jpg",
+    "description": "Addison Circle fountains",
+    "size": [
+      619,
+      480
+    ]
+  },
+  {
+    "city": "Coppell",
+    "file": "Grapevine springs park channel and bridge.jpg",
+    "photo": "/assets/cities/coppell.webp",
+    "author": "Larry D. Moore",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Grapevine_springs_park_channel_and_bridge.jpg",
+    "description": "A footbridge in Grapevine Springs Preserve in Coppell, Texas, United States. The restored bridge sits atop abutments built by the Works Progress Administration in 1936. The WPA also built the rock-lined channel.",
+    "size": [
+      640,
+      427
+    ]
+  },
+  {
+    "city": "Flower Mound",
+    "file": "Flower Mound Community Activity Center.png",
+    "photo": "/assets/cities/flower-mound.webp",
+    "author": "Runfellow",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Flower_Mound_Community_Activity_Center.png",
+    "description": "Photograph of the Community Activity Center in Flower Mound, Texas.",
+    "size": [
+      640,
+      213
+    ]
+  },
+  {
+    "city": "Lewisville",
+    "file": "Lewisville Downtown Main St.jpg",
+    "photo": "/assets/cities/lewisville.webp",
+    "author": "U",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Lewisville_Downtown_Main_St.jpg",
+    "description": "\"Old Town\" Lewisville, Texas looking east along Main Street from Charles Street.",
+    "size": [
+      640,
+      480
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "source": "PoolBurg WordPress MCP media library",
+  "images": {
+    "logo": "https://poolburg.com/wp-content/uploads/2026/09/PoolBurg-Pool-and-Spa-Service-Logo-scaled.png",
+    "hero": "https://poolburg.com/wp-content/uploads/2026/09/PoolBurg_Poolside_Dog_Lifestyle.png",
+    "weekly": "https://poolburg.com/wp-content/uploads/2026/08/Weekly-Pool-Cleaning-services-in-Allen-Texas.webp",
+    "pump": "https://poolburg.com/wp-content/uploads/2026/10/PoolBurg-pump-photo-1-scaled.jpg",
+    "leak": "https://poolburg.com/wp-content/uploads/2026/10/PoolBurg-Leak-Detection-Listening-Test.jpg",
+    "heater": "https://poolburg.com/wp-content/uploads/2026/10/PoolBurg-heater-photo-IMG_2010-scaled.jpg",
+    "surface": "https://poolburg.com/wp-content/uploads/2026/09/Pool-Acid-Washing-services-in-Dallas.webp",
+    "remodel": "https://poolburg.com/wp-content/uploads/2026/07/IMG_0511.webp"
+  },
+  "usage": "Homepage uses original media URLs from poolburg.com",
+  "contact_source": "PoolBurg WordPress homepage, page ID 4147"
+}

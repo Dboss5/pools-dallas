@@ -1,0 +1,18 @@
+{
+  "roads": "https://www2.census.gov/geo/tiger/TIGER2025/PRISECROADS/tl_2025_48_prisecroads.zip",
+  "roads_description": "U.S. Census Bureau TIGER/Line 2025 primary and secondary roads, Texas. Simplified for regional display; not a street navigation map.",
+  "water": "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_10m_lakes.geojson",
+  "water_license": "Natural Earth public domain",
+  "city_points": "https://en.wikipedia.org/w/api.php?action=query&prop=coordinates",
+  "address_geocode": "https://geocoding.geo.census.gov/geocoder/",
+  "bounds": [
+    [
+      32.65,
+      -97.35
+    ],
+    [
+      33.4,
+      -96.4
+    ]
+  ]
+}

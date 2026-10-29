@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dallas-holiday-lighting.samuel-kamau-5107.chatgpt.site/sitemap.xml
