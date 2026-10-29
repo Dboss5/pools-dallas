@@ -7,17 +7,17 @@
   "face_screening": "No recognition, identity matching, embeddings, or biometric storage. Only face presence is checked. Imperfect, especially for small, obscured, rotated, and side-on faces. Thirteen scans improve coverage but provide no guarantee.",
   "pool_observations": "Deterministic colour observations limited to a user-confirmed water area; not a trained pool-diagnosis model.",
   "symptom_sources": [
-    "https://poolburg.com/weekly-service/",
-    "https://poolburg.com/pool-leak-detection-repair/",
-    "https://poolburg.com/pool-repair/",
-    "https://poolburg.com/pool-heating-cooling/",
+    "/weekly-service/",
+    "/pool-leak-detection-repair/",
+    "/pool-repair/",
+    "/pool-heating-cooling/",
     "https://www.cdc.gov/healthy-swimming/prevention/index.html"
   ],
   "backend": "TensorFlow.js CPU; library, manifest, and detector weights are served by this website.",
   "library_sha256": "5d66ec95338d7fcc365ce15481b8599baf4b6e22c9a624b76d4ca821a669a659",
   "browser_validation": [
     "Real face-containing portrait rejected with no preview",
-    "PoolBurg pool-only photo accepted",
+    "Frisco Pool Servicess pool-only photo accepted",
     "Water-region selection and colour highlighting",
     "Symptom-based inspection suggestions",
     "Text-only report download",
