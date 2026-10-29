@@ -1,0 +1,24 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {verifyFaceScan,inspectPhoto,validateStillImage} from '../assets/pool-photo-gate.mjs';
+import {observeWater,normalizeRegion,buildAdvice} from '../assets/pool-checker-core.mjs';
+const tick=()=>new Promise(r=>setTimeout(r,0));
+function harness(result){let closed=0,created=0;return {stats:()=>({closed,created}),options:{detectorFactory:async()=>({detect:result}),decode:async()=>({width:800,height:600,close:()=>closed++}),createCanvas:()=>{created++;return {width:0,height:0,getContext:()=>({drawImage(){},translate(){},rotate(){}})}}}}}
+const file={type:'image/jpeg',size:1024};
+test('a face in a late crop rejects the entire photo',async()=>{let scans=0;const r=await verifyFaceScan(async()=>({detections:++scans===13?[{}]:[]}));assert.deepEqual(r,{accepted:false,reason:'face-detected'});assert.equal(scans,13)});
+test('every scan must succeed; errors and malformed output are not acceptance',async()=>{await assert.rejects(verifyFaceScan(async()=>{throw Error('model failure')}));await assert.rejects(verifyFaceScan(async()=>({})));assert.deepEqual(await verifyFaceScan(async()=>({detections:[]})),{accepted:true})});
+test('cancellation cannot lead to acceptance',async()=>{await assert.rejects(verifyFaceScan(async()=>({detections:[]}),{shouldCancel:()=>true}),/cancelled/)});
+test('face rejection creates no retained preview and releases decoded image',async()=>{const h=harness(()=>({detections:[{}]}));const r=await inspectPhoto(file,h.options);assert.equal(r.accepted,false);assert.equal(r.canvas,undefined);assert.deepEqual(h.stats(),{closed:1,created:1})});
+test('scan failure releases temporary image and produces no retained canvas',async()=>{const h=harness(()=>{throw Error('failed inference')});await assert.rejects(inspectPhoto(file,h.options));assert.deepEqual(h.stats(),{closed:1,created:1})});
+test('model loading failure does not decode the selected photo',async()=>{const h=harness(()=>({detections:[]}));h.options.detectorFactory=async()=>{throw Error('offline')};await assert.rejects(inspectPhoto(file,h.options));assert.deepEqual(h.stats(),{closed:0,created:0})});
+test('a clean photo is retained only after all 13 scans and metadata is absent',async()=>{let scans=0;const h=harness(()=>{scans++;return {detections:[]}});const r=await inspectPhoto({...file,name:'private-name.jpg'},h.options);assert.equal(scans,13);assert.equal(r.accepted,true);assert.equal(r.canvas.width,800);assert.equal(r.name,undefined);assert.deepEqual(h.stats(),{closed:1,created:2})});
+test('unsupported and oversized files never invoke the detector',async()=>{const h=harness(()=>({detections:[]}));await assert.rejects(inspectPhoto({type:'image/svg+xml',size:20},h.options));await assert.rejects(inspectPhoto({...file,size:11*1024*1024},h.options));assert.deepEqual(h.stats(),{closed:0,created:0})});
+function image(r,g,b){return{width:120,height:80,data:Uint8ClampedArray.from({length:120*80*4},(_,i)=>[r,g,b,255][i%4])}}
+test('water observation highlights visible green without claiming algae',()=>{const r=observeWater(image(35,130,55),{x:0,y:0,w:1,h:1});assert.equal(r.kind,'green');assert.ok(r.cells.length);assert.match(r.text,/testing is needed/);assert.ok(r.cells.every(c=>c.x>=0&&c.y>=0&&c.x+c.w<=1&&c.y+c.h<=1))});
+test('blue water is not called safe or diagnosed from its colour',()=>{const r=observeWater(image(35,140,205),{x:0,y:0,w:1,h:1});assert.equal(r.kind,'no-colour-signal');assert.match(r.text,/does not establish/)});
+test('dark and reflective photos return uncertainty, not a diagnosis',()=>{assert.equal(observeWater(image(0,0,0),{x:0,y:0,w:1,h:1}).kind,'unclear');assert.equal(observeWater(image(255,255,255),{x:0,y:0,w:1,h:1}).kind,'unclear')});
+test('selection rectangles cannot leave the image',()=>{const r=normalizeRegion({x:2,y:-2,w:2,h:-4});assert.ok(r.x>=0&&r.y>=0&&r.x+r.w<=1&&r.y+r.h<=1)});
+test('hidden leaks are not located from photographs',()=>{const r=buildAdvice({issue:'loss',floor:'yes',hazard:'no'});assert.match(r.next,/rather than accepting a location from a photograph/);assert.equal(r.href,'/pool-leak-detection-repair/')});
+test('hazards and obscured floors receive appropriate escalation',()=>{assert.equal(buildAdvice({issue:'water',hazard:'yes'}).label,'Call PoolBurg');assert.ok(buildAdvice({issue:'water',floor:'no',hazard:'no'}).notices.length)});
+
+test('animated PNG and WebP are rejected rather than checking only the first frame',()=>{const png=new Uint8Array(20);png.set([137,80,78,71,13,10,26,10]);png.set([97,99,84,76],12);assert.throws(()=>validateStillImage(png),/Animated/);const webp=new Uint8Array(30);webp.set([...Buffer.from('RIFF')],0);webp.set([...Buffer.from('WEBP')],8);webp.set([...Buffer.from('VP8X')],12);new DataView(webp.buffer).setUint32(16,10,true);webp[20]=2;assert.throws(()=>validateStillImage(webp),/Animated/);assert.throws(()=>validateStillImage(new Uint8Array([1,2,3])),/still JPEG/)});

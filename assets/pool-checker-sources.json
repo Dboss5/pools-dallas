@@ -1,0 +1,26 @@
+{
+  "library": "face-api.js@0.22.2",
+  "library_source": "https://www.npmjs.com/package/face-api.js/v/0.22.2",
+  "documentation": "https://github.com/justadudewhohacks/face-api.js",
+  "model_source": "https://github.com/justadudewhohacks/face-api.js/tree/master/weights",
+  "model_sha256": "b7503ce7df31039b1c43316a9b865cab6a70dd748cc602d3fa28b551503c3871",
+  "face_screening": "No recognition, identity matching, embeddings, or biometric storage. Only face presence is checked. Imperfect, especially for small, obscured, rotated, and side-on faces. Thirteen scans improve coverage but provide no guarantee.",
+  "pool_observations": "Deterministic colour observations limited to a user-confirmed water area; not a trained pool-diagnosis model.",
+  "symptom_sources": [
+    "https://poolburg.com/weekly-service/",
+    "https://poolburg.com/pool-leak-detection-repair/",
+    "https://poolburg.com/pool-repair/",
+    "https://poolburg.com/pool-heating-cooling/",
+    "https://www.cdc.gov/healthy-swimming/prevention/index.html"
+  ],
+  "backend": "TensorFlow.js CPU; library, manifest, and detector weights are served by this website.",
+  "library_sha256": "5d66ec95338d7fcc365ce15481b8599baf4b6e22c9a624b76d4ca821a669a659",
+  "browser_validation": [
+    "Real face-containing portrait rejected with no preview",
+    "PoolBurg pool-only photo accepted",
+    "Water-region selection and colour highlighting",
+    "Symptom-based inspection suggestions",
+    "Text-only report download",
+    "Clear photos removes accepted image and invalidates report"
+  ]
+}
