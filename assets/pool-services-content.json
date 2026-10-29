@@ -2,11 +2,11 @@
   {
     "slug": "weekly-service",
     "name": "Weekly Pool Cleaning",
-    "title": "Weekly Pool Cleaning & Maintenance Frisco | Frisco Pool Servicess",
+    "title": "Weekly Pool Cleaning & Maintenance Frisco | Frisco Pool Services",
     "h1": "Weekly pool cleaning<br><span>in Frisco.</span>",
     "description": "Detailed weekly pool cleaning in Frisco: visit tasks, water testing, brushing, vacuuming, filter and salt-system care, service notes, and pricing questions.",
     "hero": "/assets/pool-photos/pool-15.webp",
-    "alt": "Frisco Pool Servicess weekly pool cleaning in a Frisco backyard",
+    "alt": "Frisco Pool Services weekly pool cleaning in a Frisco backyard",
     "image": "/wp-content/uploads/2026/04/ChatGPT-Image-Mar-30-2026-05_57_23-PM-1024x683.png/",
     "imagealt": "Pool care image’s weekly service page",
     "lead": "Weekly pool care is a repeating process of cleaning, testing, checking circulation, and recording what changed. The goal is a plan that fits your pool’s condition and use, with a clear boundary between normal maintenance, deep cleaning, and repair work.",
@@ -15,7 +15,7 @@
     "questions": [
       [
         "What should happen during a weekly visit?",
-        "Weekly care covers water testing and balancing, cleaning the floor and surfaces, basket care, equipment observations, filter and salt-system attention, and service notes. The actual work on a particular visit depends on the pool and agreed plan. Ask how deep cleaning, specialty treatments, and parts are distinguished from recurring work. <a href=\"/weekly-service/\">The Frisco Pool Servicess service checklist</a> gives a useful comparison."
+        "Weekly care covers water testing and balancing, cleaning the floor and surfaces, basket care, equipment observations, filter and salt-system attention, and service notes. The actual work on a particular visit depends on the pool and agreed plan. Ask how deep cleaning, specialty treatments, and parts are distinguished from recurring work. <a href=\"/weekly-service/\">The Frisco Pool Services service checklist</a> gives a useful comparison."
       ],
       [
         "Why do brushing and vacuuming both matter?",
@@ -47,7 +47,7 @@
       ],
       [
         "How much does weekly pool cleaning cost?",
-        "Pool size, features, condition, debris, access, equipment, and the agreed service cadence influence the quote. Ask about standard chemical inclusions, specialty treatments, deep cleaning, and repair charges. Compare written scopes rather than the headline price alone. <a href=\"/weekly-service/\">Frisco Pool Servicess’s maintenance-routine guide</a> connects the ongoing tasks to the pool’s needs."
+        "Pool size, features, condition, debris, access, equipment, and the agreed service cadence influence the quote. Ask about standard chemical inclusions, specialty treatments, deep cleaning, and repair charges. Compare written scopes rather than the headline price alone. <a href=\"/weekly-service/\">Frisco Pool Services’s maintenance-routine guide</a> connects the ongoing tasks to the pool’s needs."
       ],
       [
         "What should my visit notes tell me?",
@@ -101,14 +101,14 @@
   {
     "slug": "pool-repair",
     "name": "Pool Equipment Repair",
-    "title": "Pool Equipment Repair in Frisco | Frisco Pool Servicess",
+    "title": "Pool Equipment Repair in Frisco | Frisco Pool Services",
     "h1": "Pool equipment repair<br><span>in Frisco.</span>",
-    "description": "Pool pump, filter, heater, and control problems in Frisco. Get clear answers about symptoms, repair versus replacement, and Frisco Pool Servicess service.",
+    "description": "Pool pump, filter, heater, and control problems in Frisco. Get clear answers about symptoms, repair versus replacement, and Frisco Pool Services service.",
     "hero": "/assets/pool-photos/pool-27.webp",
-    "alt": "Pool pump equipment photographed by Frisco Pool Servicess",
+    "alt": "Pool pump equipment photographed by Frisco Pool Services",
     "image": "/assets/pool-photos/pool-07.webp",
-    "imagealt": "Technician servicing pool equipment on Frisco Pool Servicess’s repair page",
-    "lead": "A pump that will not start, a filter that will not clear the water, or controls that stop responding can all interrupt the same pool. Frisco Pool Servicess’s Frisco equipment repair service starts with the symptom and the system around it.",
+    "imagealt": "Technician servicing pool equipment on Frisco Pool Services’s repair page",
+    "lead": "A pump that will not start, a filter that will not clear the water, or controls that stop responding can all interrupt the same pool. Frisco Pool Services’s Frisco equipment repair service starts with the symptom and the system around it.",
     "promise": "Find the fault. Understand the options.",
     "overview": "Equipment works as a connected system. Pump speed, filter condition, valves, water level, and control settings can affect one another. Describe what changed and when it happens so the service request starts with useful evidence instead of an assumed failed part.",
     "questions": [
@@ -122,7 +122,7 @@
       ],
       [
         "Does a leaking pump need replacing?",
-        "Not always. Water can escape at a lid seal, union, drain plug, shaft seal, or cracked housing. The repair decision depends on the actual leak point, motor condition, parts availability, and system compatibility. <a href=\"/pool-repair/\">Frisco Pool Servicess’s guide to leaking pump housings</a> explains why a puddle beside the pump is not a complete diagnosis."
+        "Not always. Water can escape at a lid seal, union, drain plug, shaft seal, or cracked housing. The repair decision depends on the actual leak point, motor condition, parts availability, and system compatibility. <a href=\"/pool-repair/\">Frisco Pool Services’s guide to leaking pump housings</a> explains why a puddle beside the pump is not a complete diagnosis."
       ],
       [
         "Why does my filter pressure keep rising?",
@@ -130,7 +130,7 @@
       ],
       [
         "Should I repair or replace the equipment?",
-        "Compare the repair scope with the condition and compatibility of the whole system. A localized repair can make sense when the remaining equipment is sound. Replacement may be more practical when several components are failing or parts are unavailable. <a href=\"/pool-repair/\">Frisco Pool Servicess’s pump-and-filter replacement guide</a> shows why a quote should identify equipment, installation, controls, and startup separately."
+        "Compare the repair scope with the condition and compatibility of the whole system. A localized repair can make sense when the remaining equipment is sound. Replacement may be more practical when several components are failing or parts are unavailable. <a href=\"/pool-repair/\">Frisco Pool Services’s pump-and-filter replacement guide</a> shows why a quote should identify equipment, installation, controls, and startup separately."
       ],
       [
         "How much does pool equipment repair cost?",
@@ -170,14 +170,14 @@
   {
     "slug": "pool-leak-detection-repair",
     "name": "Pool Leak Detection & Repair",
-    "title": "Pool Leak Detection & Repair Frisco | Frisco Pool Servicess",
+    "title": "Pool Leak Detection & Repair Frisco | Frisco Pool Services",
     "h1": "Pool leak detection<br><span>in Frisco.</span>",
-    "description": "Pool losing water in Frisco? Explore leak warning signs, evaporation versus leaks, inspection methods, and Frisco Pool Servicess pool leak repair.",
+    "description": "Pool losing water in Frisco? Explore leak warning signs, evaporation versus leaks, inspection methods, and Frisco Pool Services pool leak repair.",
     "hero": "/assets/pool-photos/pool-24.webp",
-    "alt": "Frisco Pool Servicess technician using listening equipment to investigate a pool leak",
+    "alt": "Frisco Pool Services technician using listening equipment to investigate a pool leak",
     "image": "/assets/pool-photos/pool-25.webp",
-    "imagealt": "Frisco Pool Servicess technician performing an underwater pool leak inspection",
-    "lead": "You refill the pool, then the level drops again. Before assuming it is the Texas heat, look at the pattern. Frisco Pool Servicess’s pool leak detection and repair service helps Frisco owners investigate unexplained water loss and discuss a repair based on what is found.",
+    "imagealt": "Frisco Pool Services technician performing an underwater pool leak inspection",
+    "lead": "You refill the pool, then the level drops again. Before assuming it is the Texas heat, look at the pattern. Frisco Pool Services’s pool leak detection and repair service helps Frisco owners investigate unexplained water loss and discuss a repair based on what is found.",
     "promise": "Trace the water loss. Then plan the repair.",
     "overview": "A skimmer leak, equipment-pad drip, underground line problem, and surface defect need different investigations. Useful details include how quickly the level changes, whether an autofill is running, and whether you notice wet soil or water around equipment. Those clues guide testing; they do not identify a leak on their own.",
     "questions": [
@@ -187,7 +187,7 @@
       ],
       [
         "Why does the water stop at the skimmer?",
-        "A recurring stopping level can help narrow an investigation, but it does not prove a particular fitting is leaking. The skimmer body, its connection to the pool, nearby fittings, or another defect at that elevation may need inspection. <a href=\"/pool-leak-detection-repair/\">Frisco Pool Servicess’s guide to skimmer problems</a> explains the clues worth documenting before repairs are chosen."
+        "A recurring stopping level can help narrow an investigation, but it does not prove a particular fitting is leaking. The skimmer body, its connection to the pool, nearby fittings, or another defect at that elevation may need inspection. <a href=\"/pool-leak-detection-repair/\">Frisco Pool Services’s guide to skimmer problems</a> explains the clues worth documenting before repairs are chosen."
       ],
       [
         "Can a pool leak underground?",
@@ -239,20 +239,20 @@
   {
     "slug": "pool-heating-cooling",
     "name": "Pool Heating & Cooling",
-    "title": "Pool Heating & Cooling in Frisco | Frisco Pool Servicess",
+    "title": "Pool Heating & Cooling in Frisco | Frisco Pool Services",
     "h1": "Pool heating & cooling<br><span>in Frisco.</span>",
-    "description": "Pool heater not heating or pool water too warm? Explore Frisco pool heating, heat pumps, chillers, repair questions, and Frisco Pool Servicess service.",
+    "description": "Pool heater not heating or pool water too warm? Explore Frisco pool heating, heat pumps, chillers, repair questions, and Frisco Pool Services service.",
     "hero": "/assets/pool-photos/pool-26.webp",
-    "alt": "Pool heater equipment photographed by Frisco Pool Servicess",
+    "alt": "Pool heater equipment photographed by Frisco Pool Services",
     "image": "/assets/pool-photos/pool-01.webp",
-    "imagealt": "Pool heating equipment shown on Frisco Pool Servicess’s heating and cooling service page",
-    "lead": "Too cold for the swim you planned. Too warm to feel refreshing. Frisco Pool Servicess helps Frisco pool owners discuss heater repairs, heat pumps, and cooling options around the equipment they have and the way they want to use the pool.",
+    "imagealt": "Pool heating equipment shown on Frisco Pool Services’s heating and cooling service page",
+    "lead": "Too cold for the swim you planned. Too warm to feel refreshing. Frisco Pool Services helps Frisco pool owners discuss heater repairs, heat pumps, and cooling options around the equipment they have and the way they want to use the pool.",
     "promise": "A comfortable swim starts with the right plan.",
     "overview": "A gas heater, electric resistance heater, heat pump, and dedicated cooler do not behave the same way. The right discussion starts with the model, pool size, target temperature, season, available utilities, and whether the problem is a new failure or a long-standing performance limit.",
     "questions": [
       [
         "Why isn’t my pool heater heating?",
-        "The cause can involve operating mode, temperature settings, water flow, an error condition, or a component fault. Record the model and exact display message before a service visit. Different heater types require different tests. <a href=\"/pool-heating-cooling/\">Frisco Pool Servicess’s electric heater repair guide</a> explains why identifying the equipment comes before buying a replacement part."
+        "The cause can involve operating mode, temperature settings, water flow, an error condition, or a component fault. Record the model and exact display message before a service visit. Different heater types require different tests. <a href=\"/pool-heating-cooling/\">Frisco Pool Services’s electric heater repair guide</a> explains why identifying the equipment comes before buying a replacement part."
       ],
       [
         "Why does my heater keep shutting off?",
@@ -260,7 +260,7 @@
       ],
       [
         "Why is my heat pump so slow?",
-        "Heat pumps move heat from outdoor air into the pool, so performance depends on ambient conditions, water flow, runtime, and heat loss. A large temperature increase can take longer than owners expect, particularly in cool or windy conditions. <a href=\"/pool-heating-cooling/\">Frisco Pool Servicess’s heat-pump troubleshooting article</a> separates operating expectations from symptoms that warrant a repair visit."
+        "Heat pumps move heat from outdoor air into the pool, so performance depends on ambient conditions, water flow, runtime, and heat loss. A large temperature increase can take longer than owners expect, particularly in cool or windy conditions. <a href=\"/pool-heating-cooling/\">Frisco Pool Services’s heat-pump troubleshooting article</a> separates operating expectations from symptoms that warrant a repair visit."
       ],
       [
         "Can I cool my pool in summer?",
@@ -308,14 +308,14 @@
   {
     "slug": "acid-wash-service",
     "name": "Pool Acid Washing & Stain Care",
-    "title": "Pool Acid Washing & Stain Care Frisco | Frisco Pool Servicess",
+    "title": "Pool Acid Washing & Stain Care Frisco | Frisco Pool Services",
     "h1": "Pool acid washing<br><span>in Frisco.</span>",
-    "description": "Stained pool plaster in Frisco? Explore acid washing, recurring rust stains, surface condition, cleaning versus resurfacing, and Frisco Pool Servicess service.",
+    "description": "Stained pool plaster in Frisco? Explore acid washing, recurring rust stains, surface condition, cleaning versus resurfacing, and Frisco Pool Services service.",
     "hero": "/assets/pool-photos/pool-10.webp",
     "alt": "Pool acid washing service image",
     "image": "/assets/pool-photos/pool-10.webp",
     "imagealt": "Backyard swimming pool and spa",
-    "lead": "Stains will not brush away. The finish looks patchy. You want a cleaner pool without choosing the wrong treatment. Frisco Pool Servicess’s acid washing and surface-care service starts by looking at the stain and the condition of the finish.",
+    "lead": "Stains will not brush away. The finish looks patchy. You want a cleaner pool without choosing the wrong treatment. Frisco Pool Services’s acid washing and surface-care service starts by looking at the stain and the condition of the finish.",
     "promise": "Understand the stain before treating the surface.",
     "overview": "Acid washing is a surface treatment, not a repair for every discolored pool. The finish type, remaining condition, previous treatments, and source of staining all matter. A worn or failing finish may need renovation instead of another aggressive cleaning.",
     "questions": [
@@ -325,7 +325,7 @@
       ],
       [
         "Why do rust stains keep coming back?",
-        "Rust-colored marks can relate to fill water, metal debris, fixtures, or an underlying source beneath the finish. Cleaning the visible stain alone may leave that source in place. <a href=\"/acid-wash-service/\">Frisco Pool Servicess’s guide to recurring pool rust stains</a> explains why the pattern and location matter when deciding whether cleaning or further repair is appropriate."
+        "Rust-colored marks can relate to fill water, metal debris, fixtures, or an underlying source beneath the finish. Cleaning the visible stain alone may leave that source in place. <a href=\"/acid-wash-service/\">Frisco Pool Services’s guide to recurring pool rust stains</a> explains why the pattern and location matter when deciding whether cleaning or further repair is appropriate."
       ],
       [
         "Do I need acid washing or resurfacing?",
@@ -333,7 +333,7 @@
       ],
       [
         "Does a green pool need acid washing?",
-        "Not automatically. Green water can involve sanitation, circulation, debris, or metals; a green color does not by itself establish that the finish needs acid washing. Start with water and equipment assessment. <a href=\"/green-pool-cleaning/\">Frisco Pool Servicess’s explanation of green water after rain</a> shows why the cause should be identified before choosing the treatment."
+        "Not automatically. Green water can involve sanitation, circulation, debris, or metals; a green color does not by itself establish that the finish needs acid washing. Start with water and equipment assessment. <a href=\"/green-pool-cleaning/\">Frisco Pool Services’s explanation of green water after rain</a> shows why the cause should be identified before choosing the treatment."
       ],
       [
         "Will the pool need to be drained?",
@@ -377,14 +377,14 @@
   {
     "slug": "pool-remodeling",
     "name": "Pool Remodeling",
-    "title": "Pool Remodeling in Frisco | Frisco Pool Servicess",
+    "title": "Pool Remodeling in Frisco | Frisco Pool Services",
     "h1": "Pool remodeling<br><span>in Frisco.</span>",
-    "description": "Plan a pool remodel in Frisco with Frisco Pool Servicess. Get answers about resurfacing, tile, coping, equipment, project order, timelines, and quote scope.",
+    "description": "Plan a pool remodel in Frisco with Frisco Pool Services. Get answers about resurfacing, tile, coping, equipment, project order, timelines, and quote scope.",
     "hero": "/assets/pool-photos/pool-10.webp",
     "alt": "Pool remodeling project image",
     "image": "/assets/pool-photos/pool-00.webp",
     "imagealt": "Pool project photograph’s remodeling service gallery",
-    "lead": "Rough plaster, tired tile, loose edges, or equipment that no longer fits the way you swim: a pool remodel should solve the problems behind the worn appearance. Frisco Pool Servicess helps Frisco owners turn those concerns into a coordinated renovation scope.",
+    "lead": "Rough plaster, tired tile, loose edges, or equipment that no longer fits the way you swim: a pool remodel should solve the problems behind the worn appearance. Frisco Pool Services helps Frisco owners turn those concerns into a coordinated renovation scope.",
     "promise": "Fix what matters. Then choose the finish.",
     "overview": "A pool refresh can range from targeted surface work to changes involving equipment, tile, coping, decking, and surrounding details. Start by separating necessary repairs from the upgrades you want. That makes it easier to compare proposals and avoid reopening new work for an overlooked problem.",
     "questions": [
@@ -398,7 +398,7 @@
       ],
       [
         "Should leaks be fixed before remodeling?",
-        "Active water loss and underlying defects should be investigated before new finishes conceal the area. Planning plumbing and equipment access early can prevent cutting into recently completed work. <a href=\"/pool-remodeling/\">Frisco Pool Servicess’s pool-and-backyard remodel guide</a> explains why hidden repairs and utilities belong near the beginning of the plan."
+        "Active water loss and underlying defects should be investigated before new finishes conceal the area. Planning plumbing and equipment access early can prevent cutting into recently completed work. <a href=\"/pool-remodeling/\">Frisco Pool Services’s pool-and-backyard remodel guide</a> explains why hidden repairs and utilities belong near the beginning of the plan."
       ],
       [
         "Can I replace tile and coping together?",
@@ -410,7 +410,7 @@
       ],
       [
         "How much does pool remodeling cost?",
-        "The largest difference between quotes is often what they include. Surface-only work is different from a project that also addresses tile, coping, equipment, plumbing, or decking. <a href=\"/pool-remodeling/\">Frisco Pool Servicess’s restoration-cost guide</a> helps separate those categories. Request an itemized scope, allowances, exclusions, and a process for approving work discovered after demolition."
+        "The largest difference between quotes is often what they include. Surface-only work is different from a project that also addresses tile, coping, equipment, plumbing, or decking. <a href=\"/pool-remodeling/\">Frisco Pool Services’s restoration-cost guide</a> helps separate those categories. Request an itemized scope, allowances, exclusions, and a process for approving work discovered after demolition."
       ]
     ],
     "matrixtitle": "What belongs in my renovation plan?",

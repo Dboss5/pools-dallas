@@ -44,7 +44,7 @@ const guides={
 export function buildAdvice(answers,observations=[]){
   const source=Object.hasOwn(guides,answers.issue)?guides[answers.issue]:guides.routine;
   const photoTexts=observations.map(o=>o.text);
-  if(answers.hazard==='yes')return {title:'Get direct professional help',priority:'Contact the team directly',locations:[['Equipment area','An electrical concern, gas odour, or damaged equipment needs direct assessment; the photo checker cannot evaluate it.']],next:'Keep people away from the affected equipment. For an active gas smell or immediate danger, leave the area and contact the gas utility or emergency services. Do not keep operating or repeatedly resetting affected equipment.',href:'tel:+19457773345',label:'Call Frisco Pool Servicess',photoTexts};
+  if(answers.hazard==='yes')return {title:'Get direct professional help',priority:'Contact the team directly',locations:[['Equipment area','An electrical concern, gas odour, or damaged equipment needs direct assessment; the photo checker cannot evaluate it.']],next:'Keep people away from the affected equipment. For an active gas smell or immediate danger, leave the area and contact the gas utility or emergency services. Do not keep operating or repeatedly resetting affected equipment.',href:'tel:+19457773345',label:'Call Frisco Pool Services',photoTexts};
   const notices=[];
   if(answers.floor==='no')notices.push('You said the pool floor cannot be seen clearly. Keep swimmers out and arrange a water-condition assessment.');
   if(answers.pump==='dry')notices.push('You reported a pump running dry. Turn it off and request equipment service rather than continuing to operate it.');

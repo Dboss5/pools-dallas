@@ -1,4 +1,4 @@
-# Frisco Pool Servicess
+# Frisco Pool Services
 
 Static pool-service website with service guides, city pages, and an on-device pool photo checker.
 
