@@ -35,3 +35,7 @@ Edit `assets/pool-expanded-services.json` and run `python scripts/build_pool_ser
 Every pool header and mobile menu links to `/search/`. Search indexes the 53 public pool pages, ranks title and heading matches, and supports service, location, and tools filters. Results are rendered locally from `assets/site-search-index.json`; query URLs can be shared. The search page is noindex and is excluded from search results and the sitemap. Legacy lighting pages are excluded.
 
 After page content changes, run `python scripts/build_site_search.py` to refresh the index.
+
+## Mobile navigation
+
+The shared mobile drawer includes a search form, six primary links, grouped access to all 21 services and the additional cleaning guides, county/neighborhood accordions, and persistent call/text actions. The link list scrolls independently of the top controls and contact actions. Run `python scripts/update_mobile_menu.py` after changing the service catalogue or Frisco local content to refresh it across every pool page.
